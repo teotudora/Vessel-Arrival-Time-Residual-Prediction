@@ -1,0 +1,644 @@
+Ship_Name;MMSI;Origin_Port;Destination_Port;Draught;Length;Width;Congestion;Wind;Visibility;Arrival_Time;Crew_ETA
+MISTRAL             ;230925000;Rotterdam;Felixstowe;6.2;153.0;20.0;0.0;2.24;10000.0;2026-04-29 17:24:55.573170297;{'Day': 28, 'Hour': 17, 'Minute': 30, 'Month': 5}
+ATLANTIC PERFORMER;244710207;Rotterdam;Antwerp;0.0;135.0;14.0;6.0;1.79;10000.0;2026-04-29 19:16:34.582530396;{'Day': 25, 'Hour': 23, 'Minute': 0, 'Month': 5}
+MISTRAL             ;230925000;Felixstowe;Rotterdam;6.2;153.0;20.0;17.0;4.22;10000.0;2026-04-30 05:30:31.116255842;{'Day': 28, 'Hour': 17, 'Minute': 30, 'Month': 5}
+SOMTRANS X;205369090;Antwerp;Rotterdam;0.1;135.0;15.0;16.0;4.22;10000.0;2026-04-30 07:57:07.249344982;{'Day': 3, 'Hour': 1, 'Minute': 0, 'Month': 11}
+INDUS;205529590;Rotterdam;Antwerp;0.4;110.0;23.0;3.0;1.79;10000.0;2026-05-04 08:26:06.664301080;{'Day': 28, 'Hour': 14, 'Minute': 38, 'Month': 5}
+HMM SOUTHAMPTON     ;440363000;Rotterdam;Hamburg;11.8;400.0;62.0;11.0;5.14;10000.0;2026-05-04 08:26:07.835324241;{'Day': 11, 'Hour': 11, 'Minute': 30, 'Month': 5}
+MSC VITA            ;255806493;Bremerhaven;Antwerp;13.6;300.0;48.0;3.0;1.79;10000.0;2026-05-04 08:26:08.965205698;{'Day': 9, 'Hour': 7, 'Minute': 0, 'Month': 5}
+SEATTLE BRIDGE      ;353903000;Hong;Singapore;14.1;293.0;40.0;185.0;4.12;10000.0;2026-05-04 08:26:09.740809771;{'Day': 28, 'Hour': 3, 'Minute': 0, 'Month': 5}
+ACACIA SEAWAYS;277574000;Rotterdam;Felixstowe;6.5;210.0;26.0;0.0;2.24;10000.0;2026-05-04 08:26:13.257701907;{'Day': 28, 'Hour': 3, 'Minute': 0, 'Month': 5}
+FIDELITAS;253242033;Antwerp;Rotterdam;1.4;125.0;12.0;15.0;4.22;10000.0;2026-05-04 08:26:15.306654168;{'Day': 23, 'Hour': 19, 'Minute': 37, 'Month': 5}
+INSPIRATION;244822424;Antwerp;Rotterdam;3.0;125.0;15.0;15.0;4.22;10000.0;2026-05-04 08:26:17.115356150;{'Day': 26, 'Hour': 21, 'Minute': 35, 'Month': 5}
+ANTIGUA;244830109;Antwerp;Rotterdam;2.6;85.0;10.0;15.0;4.22;10000.0;2026-05-04 08:26:18.834558988;{'Day': 27, 'Hour': 17, 'Minute': 39, 'Month': 5}
+VINOTRA 10;244730150;Antwerp;Rotterdam;1.7;135.0;23.0;15.0;4.22;10000.0;2026-05-04 08:26:18.923353930;{'Day': 24, 'Hour': 4, 'Minute': 50, 'Month': 5}
+SOMBRA;244010511;Antwerp;Rotterdam;3.2;111.0;12.0;15.0;4.22;10000.0;2026-05-04 08:26:21.299978059;{'Day': 19, 'Hour': 8, 'Minute': 19, 'Month': 5}
+SUEZMAX;244660401;Antwerp;Rotterdam;3.4;135.0;12.0;15.0;4.22;10000.0;2026-05-04 08:26:27.513478929;{'Day': 6, 'Hour': 8, 'Minute': 4, 'Month': 5}
+ZIM VIETNAM         ;636022113;Rotterdam;Le;11.3;304.0;40.0;1.0;;;2026-05-04 08:26:35.993120651;{'Day': 12, 'Hour': 14, 'Minute': 0, 'Month': 5}
+VERTOM ISA          ;255915933;Rotterdam;Antwerp;4.2;88.0;14.0;3.0;1.79;10000.0;2026-05-04 08:26:40.831175061;{'Day': 29, 'Hour': 20, 'Minute': 0, 'Month': 4}
+EXCELLO;266273000;Antwerp;Le;6.7;155.0;22.0;1.0;;;2026-05-04 08:26:50.368390875;{'Day': 6, 'Hour': 4, 'Minute': 0, 'Month': 5}
+IDUNA;244670789;Antwerp;Rotterdam;3.0;135.0;15.0;15.0;4.22;10000.0;2026-05-04 08:26:51.078772994;{'Day': 22, 'Hour': 11, 'Minute': 9, 'Month': 10}
+SOVEREIGN;244170263;Antwerp;Rotterdam;0.4;135.0;14.0;15.0;4.22;10000.0;2026-05-04 08:26:53.365633415;{'Day': 26, 'Hour': 20, 'Minute': 54, 'Month': 5}
+STOLT ZULU          ;636015971;Le;Antwerp;10.4;159.0;25.0;3.0;1.79;10000.0;2026-05-04 08:27:02.792538246;{'Day': 1, 'Hour': 10, 'Minute': 0, 'Month': 5}
+OTTO H              ;538006810;Rotterdam;Antwerp;8.2;169.0;26.0;3.0;1.79;10000.0;2026-05-04 08:27:06.014684045;{'Day': 1, 'Hour': 4, 'Minute': 0, 'Month': 5}
+OTD ALPHA           ;244670734;Rotterdam;Antwerp;1.3;110.0;12.0;3.0;1.79;10000.0;2026-05-04 08:27:06.891351358;{'Day': 13, 'Hour': 4, 'Minute': 0, 'Month': 5}
+JEANINE;244650690;Rotterdam;Antwerp;0.0;135.0;15.0;3.0;1.79;10000.0;2026-05-04 08:27:11.261566677;{'Day': 24, 'Hour': 9, 'Minute': 9, 'Month': 5}
+MARFRET NIOLON      ;253343000;Le;Antwerp;5.3;123.0;19.0;3.0;1.79;10000.0;2026-05-04 08:27:12.358627687;{'Day': 1, 'Hour': 7, 'Minute': 0, 'Month': 5}
+BERNSTEIN           ;209341000;Rotterdam;Le;5.1;99.0;14.0;1.0;;;2026-05-04 08:27:16.833257927;{'Day': 23, 'Hour': 10, 'Minute': 0, 'Month': 5}
+MACAO               ;255805611;Antwerp;Le;8.3;180.0;27.0;1.0;;;2026-05-04 08:27:22.674631786;{'Day': 6, 'Hour': 12, 'Minute': 0, 'Month': 5}
+TANZANITE;205335490;Antwerp;Rotterdam;0.0;110.0;14.0;15.0;4.22;10000.0;2026-05-04 08:27:23.227298214;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+ECO TROPHY          ;255915600;Bremerhaven;Rotterdam;5.0;132.0;18.0;15.0;4.22;10000.0;2026-05-04 08:27:24.932359017;{'Day': 28, 'Hour': 4, 'Minute': 0, 'Month': 5}
+LILAC ROLLER        ;538090647;Rotterdam;Hamburg;8.1;180.0;28.0;11.0;5.14;10000.0;2026-05-04 08:27:28.126017796;{'Day': 7, 'Hour': 0, 'Minute': 30, 'Month': 5}
+GREAT COTONOU       ;247452100;Hamburg;Antwerp;9.0;249.0;39.0;3.0;1.79;10000.0;2026-05-04 08:27:29.328830435;{'Day': 30, 'Hour': 20, 'Minute': 0, 'Month': 4}
+DAMIETTA EXPRESS    ;218038370;Rotterdam;Hamburg;10.8;400.0;61.0;11.0;5.14;10000.0;2026-05-04 08:27:35.276982424;{'Day': 8, 'Hour': 20, 'Minute': 0, 'Month': 5}
+SYDBORG;244901000;Bremerhaven;Hamburg;5.8;89.0;13.0;11.0;5.14;10000.0;2026-05-04 08:27:44.340611524;{'Day': 6, 'Hour': 19, 'Minute': 0, 'Month': 5}
+EUROPORTS;205505790;Antwerp;Rotterdam;2.0;134.0;16.0;15.0;4.22;10000.0;2026-05-04 08:27:44.756681129;{'Day': 25, 'Hour': 15, 'Minute': 0, 'Month': 5}
+COSCO NEW YORK      ;355808000;Hong;Singapore;11.9;294.0;32.0;185.0;4.12;10000.0;2026-05-04 08:29:26.665325947;{'Day': 4, 'Hour': 1, 'Minute': 30, 'Month': 5}
+STOLT VISION        ;636015738;Antwerp;Rotterdam;7.8;159.0;25.0;15.0;4.22;10000.0;2026-05-04 08:29:30.075770111;{'Day': 10, 'Hour': 2, 'Minute': 0, 'Month': 5}
+JOY;269057560;Rotterdam;Antwerp;1.6;135.0;12.0;3.0;1.79;10000.0;2026-05-04 08:29:43.379197923;{'Day': 8, 'Hour': 7, 'Minute': 0, 'Month': 5}
+ONERI;244041097;Rotterdam;Antwerp;3.7;135.0;18.0;3.0;1.79;10000.0;2026-05-04 08:29:43.541197083;{'Day': 29, 'Hour': 20, 'Minute': 12, 'Month': 4}
+VOERENDAAL          ;244650611;Antwerp;Rotterdam;3.0;110.0;14.0;15.0;4.22;10000.0;2026-05-04 08:29:55.700248872;{'Day': 25, 'Hour': 20, 'Minute': 38, 'Month': 5}
+NIKKI-RENEE;244660475;Antwerp;Rotterdam;20.0;122.0;14.0;15.0;4.22;10000.0;2026-05-04 08:29:59.885127778;{'Day': 30, 'Hour': 23, 'Minute': 38, 'Month': 4}
+PROTEUS             ;205237290;Antwerp;Rotterdam;1.8;110.0;14.0;15.0;4.22;10000.0;2026-05-04 08:30:07.530003252;{'Day': 3, 'Hour': 9, 'Minute': 45, 'Month': 5}
+LADY MARIA FISHER   ;232046269;Rotterdam;Hamburg;5.3;93.0;17.0;11.0;5.14;10000.0;2026-05-04 08:30:12.867989538;{'Day': 24, 'Hour': 9, 'Minute': 0, 'Month': 5}
+TRANS FJORD         ;352003272;Antwerp;Hamburg;7.1;126.0;21.0;11.0;5.14;10000.0;2026-05-04 08:30:30.383313650;{'Day': 5, 'Hour': 19, 'Minute': 0, 'Month': 5}
+RIVER DRONE 10;205566190;Rotterdam;Antwerp;1.9;106.0;12.0;3.0;1.79;10000.0;2026-05-04 08:30:32.296328847;{'Day': 20, 'Hour': 13, 'Minute': 19, 'Month': 5}
+HENNEBURG           ;211511390;Antwerp;Rotterdam;2.4;135.0;12.0;15.0;4.22;10000.0;2026-05-04 08:30:38.803344276;{'Day': 18, 'Hour': 18, 'Minute': 0, 'Month': 5}
+SOUTH DAKOTA;244137325;Antwerp;Rotterdam;1.9;110.0;12.0;15.0;4.22;10000.0;2026-05-04 08:30:41.405425131;{'Day': 30, 'Hour': 7, 'Minute': 0, 'Month': 5}
+ATHENIAN FAITH      ;255916541;Le;Hamburg;9.1;150.0;23.0;11.0;5.14;10000.0;2026-05-04 08:30:47.566215066;{'Day': 26, 'Hour': 22, 'Minute': 30, 'Month': 4}
+BERNARD M;244000935;Antwerp;Rotterdam;4.7;135.0;19.0;15.0;4.22;10000.0;2026-05-04 08:31:09.525230345;{'Day': 26, 'Hour': 4, 'Minute': 22, 'Month': 5}
+CMA CGM TOKYO       ;249172000;Felixstowe;Hamburg;14.3;271.0;43.0;11.0;5.14;10000.0;2026-05-04 08:31:09.594234222;{'Day': 15, 'Hour': 20, 'Minute': 0, 'Month': 5}
+LEENDERTANGELINA;244650909;Antwerp;Rotterdam;1.0;86.0;9.0;15.0;4.22;10000.0;2026-05-04 08:31:24.506163495;{'Day': 28, 'Hour': 5, 'Minute': 51, 'Month': 5}
+CMA CGM FIDELIO;229808000;Rotterdam;Bremerhaven;13.5;349.0;42.0;3.0;7.09;6188.0;2026-05-04 08:31:26.917501384;{'Day': 16, 'Hour': 18, 'Minute': 0, 'Month': 5}
+NAVIRA;205369890;Antwerp;Rotterdam;3.3;135.0;17.0;15.0;4.22;10000.0;2026-05-04 08:31:31.292387015;{'Day': 26, 'Hour': 15, 'Minute': 55, 'Month': 5}
+WILSON CADIZ        ;314216000;Rotterdam;Hamburg;5.8;100.0;13.0;11.0;5.14;10000.0;2026-05-04 08:31:38.765290195;{'Day': 8, 'Hour': 13, 'Minute': 0, 'Month': 5}
+COSCO HOPE          ;563286500;Bremerhaven;Le;14.3;366.0;48.0;1.0;;;2026-05-04 08:38:26.528775591;{'Day': 14, 'Hour': 7, 'Minute': 0, 'Month': 5}
+MARA;205587190;Rotterdam;Antwerp;4.8;111.0;24.0;3.0;1.79;10000.0;2026-05-04 08:38:39.942834920;{'Day': 1, 'Hour': 11, 'Minute': 40, 'Month': 5}
+ODYSSEY;244730614;Antwerp;Rotterdam;0.1;110.0;12.0;15.0;4.22;10000.0;2026-05-04 08:38:42.339234263;{'Day': 28, 'Hour': 10, 'Minute': 33, 'Month': 5}
+KATE;244000211;Antwerp;Rotterdam;3.4;85.0;10.0;15.0;4.22;10000.0;2026-05-04 08:38:46.924850806;{'Day': 24, 'Hour': 7, 'Minute': 34, 'Month': 5}
+EVA TOKYO           ;371809000;Antwerp;Rotterdam;5.0;146.0;24.0;15.0;4.22;10000.0;2026-05-04 08:39:53.671633951;{'Day': 11, 'Hour': 10, 'Minute': 0, 'Month': 5}
+NAVIG8 EXECUTIVE;563257900;Rotterdam;Antwerp;8.7;183.0;32.0;3.0;1.79;10000.0;2026-05-04 08:39:54.042138314;{'Day': 10, 'Hour': 1, 'Minute': 0, 'Month': 5}
+COASTALWATER;210727000;Antwerp;Le;5.3;122.0;16.0;1.0;;;2026-05-04 08:39:59.006799417;{'Day': 26, 'Hour': 22, 'Minute': 0, 'Month': 5}
+NAGOYA EXPRESS      ;636093219;New;Savannah;12.3;335.0;42.0;2.0;1.99;10000.0;2026-05-04 08:39:59.845610865;{'Day': 5, 'Hour': 9, 'Minute': 0, 'Month': 5}
+YM WREATH           ;563289200;Felixstowe;Rotterdam;11.7;368.0;51.0;15.0;4.22;10000.0;2026-05-04 08:40:11.020921732;{'Day': 14, 'Hour': 0, 'Minute': 0, 'Month': 5}
+CORYLOPHIDA;253465000;Antwerp;Rotterdam;3.0;86.0;10.0;15.0;4.22;10000.0;2026-05-04 08:40:12.083325571;{'Day': 20, 'Hour': 12, 'Minute': 26, 'Month': 5}
+BARBAROS ULUC VARDAL;352001852;Rotterdam;Hamburg;6.7;105.0;17.0;11.0;5.14;10000.0;2026-05-04 08:40:12.527954844;{'Day': 7, 'Hour': 4, 'Minute': 0, 'Month': 5}
+S -INNE;244750074;Antwerp;Rotterdam;2.3;55.0;7.0;15.0;4.22;10000.0;2026-05-04 08:43:28.353482973;{'Day': 11, 'Hour': 20, 'Minute': 0, 'Month': 11}
+NOORTJE B;205557790;Rotterdam;Antwerp;0.0;80.0;10.0;3.0;1.79;10000.0;2026-05-04 08:43:37.790567628;{'Day': 2, 'Hour': 0, 'Minute': 0, 'Month': 2}
+MALIA;205542590;Antwerp;Rotterdam;3.7;110.0;14.0;15.0;4.22;10000.0;2026-05-04 08:43:47.923668129;{'Day': 19, 'Hour': 1, 'Minute': 9, 'Month': 5}
+BOCHEM GHENT        ;477351300;Rotterdam;Antwerp;9.0;170.0;26.0;3.0;1.79;10000.0;2026-05-04 08:43:48.046484843;{'Day': 22, 'Hour': 10, 'Minute': 0, 'Month': 4}
+MSC DOMNA X;636022657;Bremerhaven;Antwerp;14.6;347.0;43.0;3.0;1.79;10000.0;2026-05-04 08:43:49.277090419;{'Day': 15, 'Hour': 3, 'Minute': 0, 'Month': 5}
+ARKLOW BRAVE;244730944;Bremerhaven;Hamburg;6.0;120.0;15.0;11.0;5.14;10000.0;2026-05-04 08:43:54.067985153;{'Day': 23, 'Hour': 9, 'Minute': 30, 'Month': 5}
+CMA CGM BLUE WHALE;215175000;Le;Hamburg;12.2;295.0;33.0;11.0;5.14;10000.0;2026-05-04 08:43:56.205960227;{'Day': 29, 'Hour': 2, 'Minute': 30, 'Month': 4}
+CMA CGM LOUGA;248655000;Rotterdam;Le;10.1;195.0;32.0;1.0;;;2026-05-04 08:43:56.980092011;{'Day': 5, 'Hour': 5, 'Minute': 30, 'Month': 4}
+ELLEN               ;244060192;Antwerp;Rotterdam;2.5;110.0;12.0;15.0;4.22;10000.0;2026-05-04 08:43:57.065344270;{'Day': 21, 'Hour': 0, 'Minute': 33, 'Month': 5}
+MSC SAUDI ARABIA    ;636025762;Le;Rotterdam;14.9;366.0;51.0;15.0;4.22;10000.0;2026-05-04 08:44:03.945973759;{'Day': 29, 'Hour': 19, 'Minute': 30, 'Month': 4}
+RIVER DRONE 6;205567790;Antwerp;Rotterdam;1.5;106.0;12.0;15.0;4.22;10000.0;2026-05-04 08:45:31.113934623;{'Day': 28, 'Hour': 9, 'Minute': 36, 'Month': 5}
+SOMTRANS X;205369090;Rotterdam;Antwerp;0.1;135.0;15.0;3.0;1.79;10000.0;2026-05-04 08:46:06.506812561;{'Day': 3, 'Hour': 1, 'Minute': 0, 'Month': 11}
+AMY;255915975;Bremerhaven;Antwerp;6.4;147.0;23.0;3.0;1.79;10000.0;2026-05-04 08:46:22.146239384;{'Day': 6, 'Hour': 17, 'Minute': 0, 'Month': 5}
+MELIUS;244005969;Antwerp;Rotterdam;3.5;135.0;18.0;15.0;4.22;10000.0;2026-05-04 08:46:57.877173785;{'Day': 26, 'Hour': 17, 'Minute': 52, 'Month': 5}
+MAGELLAN;211515380;Rotterdam;Antwerp;2.8;110.0;12.0;10.0;1.79;10000.0;2026-05-04 09:17:31.952291285;{'Day': 30, 'Hour': 16, 'Minute': 59, 'Month': 4}
+MSC SALERNO         ;636025635;Rotterdam;Antwerp;14.9;366.0;51.0;10.0;1.79;10000.0;2026-05-04 09:18:40.824476022;{'Day': 30, 'Hour': 9, 'Minute': 30, 'Month': 4}
+MEJORA              ;244650537;Rotterdam;Antwerp;1.3;135.0;12.0;10.0;1.79;10000.0;2026-05-04 09:23:34.460082604;{'Day': 29, 'Hour': 18, 'Minute': 7, 'Month': 4}
+TETHYS HIGHWAY      ;431476000;Antwerp;Bremerhaven;8.4;199.0;38.0;2.0;7.09;6188.0;2026-05-04 09:33:20.552225194;{'Day': 30, 'Hour': 6, 'Minute': 30, 'Month': 4}
+MI-MUNDO;244139567;Rotterdam;Antwerp;2.5;110.0;12.0;10.0;1.79;10000.0;2026-05-04 09:37:55.060674906;{'Day': 28, 'Hour': 5, 'Minute': 49, 'Month': 5}
+OTTER;244139023;Antwerp;Rotterdam;3.4;110.0;12.0;15.0;4.22;10000.0;2026-05-04 09:46:13.727269049;{'Day': 11, 'Hour': 7, 'Minute': 41, 'Month': 5}
+ETERNITY;244710484;Antwerp;Rotterdam;2.0;110.0;12.0;15.0;4.22;10000.0;2026-05-04 09:49:07.779044487;{'Day': 27, 'Hour': 2, 'Minute': 5, 'Month': 5}
+MUREEN;244660108;Rotterdam;Antwerp;0.0;135.0;23.0;10.0;1.79;10000.0;2026-05-04 09:50:00.797817864;{'Day': 7, 'Hour': 17, 'Minute': 54, 'Month': 5}
+ROSSINI;205490890;Rotterdam;Antwerp;1.7;110.0;12.0;10.0;1.79;10000.0;2026-05-04 09:56:02.377715559;{'Day': 26, 'Hour': 17, 'Minute': 7, 'Month': 4}
+SENDO NAVE ;244076746;Rotterdam;Antwerp;1.0;123.0;15.0;7.0;1.79;10000.0;2026-05-04 10:40:56.942238228;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+TASMANZEE;205553090;Rotterdam;Antwerp;1.8;135.0;18.0;7.0;1.79;10000.0;2026-05-04 11:01:57.390486121;{'Day': 26, 'Hour': 19, 'Minute': 2, 'Month': 5}
+ATLANTIC PRESTIGE   ;244700991;Antwerp;Rotterdam;1.0;135.0;14.0;16.0;4.22;10000.0;2026-05-04 11:08:24.530522372;{'Day': 23, 'Hour': 10, 'Minute': 33, 'Month': 5}
+MERSCH;244372228;Antwerp;Rotterdam;1.4;82.0;10.0;26.0;4.22;10000.0;2026-05-04 11:34:24.708309280;{'Day': 5, 'Hour': 19, 'Minute': 55, 'Month': 5}
+PATARA;218818000;Vancouver;Los;8.1;182.0;30.0;7.0;;;2026-05-04 13:36:11.458045765;{'Day': 16, 'Hour': 1, 'Minute': 0, 'Month': 5}
+CHARIS              ;205528890;Rotterdam;Antwerp;0.0;135.0;15.0;16.0;1.79;10000.0;2026-05-04 14:06:55.936056493;{'Day': 22, 'Hour': 9, 'Minute': 21, 'Month': 5}
+COMPONIST;244670209;Rotterdam;Antwerp;3.9;135.0;11.0;6.0;1.79;10000.0;2026-05-04 15:04:53.529145369;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+STOLT DONAU;205376090;Antwerp;Rotterdam;1.5;110.0;14.0;14.0;4.22;10000.0;2026-05-04 16:48:33.914885540;{'Day': 25, 'Hour': 13, 'Minute': 40, 'Month': 5}
+SAFFIRA;244710843;Antwerp;Rotterdam;0.2;86.0;9.0;7.0;4.22;10000.0;2026-05-04 17:51:59.430843092;{'Day': 22, 'Hour': 7, 'Minute': 0, 'Month': 4}
+VANCOUVER EXPRESS   ;636018701;Rotterdam;Hamburg;13.4;368.0;51.0;19.0;5.14;10000.0;2026-05-04 19:42:17.911977155;{'Day': 7, 'Hour': 16, 'Minute': 0, 'Month': 5}
+JULIA;244070891;Antwerp;Rotterdam;2.7;110.0;12.0;20.0;4.22;10000.0;2026-05-04 22:47:16.994049280;{'Day': 10, 'Hour': 22, 'Minute': 43, 'Month': 5}
+EVELINE             ;244615524;Rotterdam;Antwerp;0.0;86.0;12.0;6.0;1.79;10000.0;2026-05-04 23:05:21.578501220;{'Day': 25, 'Hour': 11, 'Minute': 16, 'Month': 5}
+BJORG;305299000;Hamburg;Bremerhaven;6.1;134.0;22.0;4.0;7.09;6188.0;2026-05-05 03:51:13.690996852;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+TULIPA SEAWAYS;277548000;Rotterdam;Felixstowe;6.1;209.0;26.0;0.0;2.24;10000.0;2026-05-05 03:51:35.573048172;{'Day': 28, 'Hour': 14, 'Minute': 15, 'Month': 5}
+THULELAND;266248000;Rotterdam;Felixstowe;6.6;191.0;26.0;0.0;2.24;10000.0;2026-05-05 03:51:47.120315319;{'Day': 28, 'Hour': 3, 'Minute': 0, 'Month': 5}
+MSC MATILDE V;353719000;Bremerhaven;Le;11.0;294.0;32.0;7.0;;;2026-05-05 03:52:03.029743820;{'Day': 7, 'Hour': 12, 'Minute': 45, 'Month': 5}
+KARBOUW;244660086;Antwerp;Rotterdam;1.6;110.0;12.0;24.0;4.22;10000.0;2026-05-05 03:53:45.512306329;{'Day': 9, 'Hour': 16, 'Minute': 56, 'Month': 5}
+ORANJE NASSAU 2;244620876;Antwerp;Rotterdam;4.2;110.0;14.0;24.0;4.22;10000.0;2026-05-05 04:04:52.845849653;{'Day': 28, 'Hour': 18, 'Minute': 39, 'Month': 5}
+RELATIONSHIP;211511900;Rotterdam;Antwerp;2.5;110.0;11.0;4.0;1.79;10000.0;2026-05-05 06:15:51.751207227;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+DELTA;244670735;Antwerp;Rotterdam;2.5;86.0;12.0;24.0;4.22;10000.0;2026-05-05 06:55:55.173123256;{'Day': 11, 'Hour': 12, 'Minute': 9, 'Month': 5}
+TRANQUILO;244070504;Antwerp;Rotterdam;1.9;110.0;14.0;13.0;4.22;10000.0;2026-05-05 15:17:31.921706109;{'Day': 8, 'Hour': 6, 'Minute': 36, 'Month': 5}
+PATRICIA            ;244700326;Antwerp;Rotterdam;2.7;122.0;14.0;15.0;4.22;10000.0;2026-05-05 18:16:09.349007805;{'Day': 10, 'Hour': 19, 'Minute': 17, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;6.0;1.79;10000.0;2026-05-05 22:18:03.571612542;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+SENDO MARE;244181802;Antwerp;Rotterdam;3.9;124.0;15.0;24.0;4.22;10000.0;2026-05-06 02:33:21.628088789;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+SKALAR;255806476;Hamburg;Rotterdam;6.8;151.0;24.0;14.0;4.22;10000.0;2026-05-06 06:53:47.540546037;{'Day': 20, 'Hour': 5, 'Minute': 0, 'Month': 5}
+MANU FORTI;244670140;Rotterdam;Antwerp;0.0;85.0;10.0;5.0;1.79;10000.0;2026-05-06 08:50:47.765349142;{'Day': 24, 'Hour': 9, 'Minute': 0, 'Month': 5}
+KAAN KALKAVAN;271043028;New;Savannah;10.5;183.0;28.0;0.0;1.99;10000.0;2026-05-06 13:37:37.154647570;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;19.0;4.22;10000.0;2026-05-07 01:24:47.314509832;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+MSC KATYAYNI VI     ;351675000;Le;Antwerp;14.2;275.0;40.0;3.0;1.79;10000.0;2026-05-07 08:36:42.610854229;{'Day': 17, 'Hour': 6, 'Minute': 0, 'Month': 5}
+CMA CGM LEBU;229820000;Antwerp;Le;9.2;260.0;32.0;6.0;;;2026-05-07 09:13:36.436406756;{'Day': 4, 'Hour': 13, 'Minute': 0, 'Month': 5}
+MSC KATYAYNI VI     ;351675000;Antwerp;Le;14.2;275.0;40.0;7.0;;;2026-05-07 09:17:44.866859370;{'Day': 17, 'Hour': 6, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Rotterdam;Antwerp;8.7;126.0;20.0;6.0;1.79;10000.0;2026-05-07 09:38:30.622044893;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+MSC KATYAYNI VI     ;351675000;Antwerp;Le;14.2;275.0;40.0;7.0;;;2026-05-07 09:38:43.194202043;{'Day': 17, 'Hour': 6, 'Minute': 0, 'Month': 5}
+YE86 CORNELIS;244032000;Rotterdam;Antwerp;1.2;37.0;7.0;6.0;1.79;10000.0;2026-05-07 09:40:14.199192484;{'Day': 26, 'Hour': 0, 'Minute': 0, 'Month': 9}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;6.0;4.22;10000.0;2026-05-07 09:53:46.506583052;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+MSC KATYAYNI VI     ;351675000;Antwerp;Le;14.2;275.0;40.0;5.0;;;2026-05-07 10:05:42.044997391;{'Day': 17, 'Hour': 6, 'Minute': 0, 'Month': 5}
+MSC KATYAYNI VI     ;351675000;Antwerp;Le;14.2;275.0;40.0;4.0;;;2026-05-07 10:35:43.595071578;{'Day': 17, 'Hour': 6, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;8.0;4.22;10000.0;2026-05-07 11:35:46.327084582;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;8.0;4.22;10000.0;2026-05-07 11:44:45.252170201;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;9.0;4.22;10000.0;2026-05-07 12:44:45.285952064;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 12:56:08.080491968;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 13:05:08.190515743;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;9.0;4.22;10000.0;2026-05-07 13:23:45.306127632;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 13:24:16.080451618;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 13:47:24.240187724;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;13.0;4.22;10000.0;2026-05-07 13:47:45.304406418;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 13:55:24.247122724;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 13:56:24.429995398;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 14:02:24.186301894;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+BIRTHE ESSBERGER    ;255806320;Antwerp;Felixstowe;5.6;99.0;17.0;0.0;2.24;10000.0;2026-05-07 14:05:11.199818428;{'Day': 28, 'Hour': 10, 'Minute': 0, 'Month': 5}
+CHEMICAL SAILOR     ;249022000;Antwerp;Rotterdam;8.7;126.0;20.0;8.0;4.22;10000.0;2026-05-07 14:29:46.225048582;{'Day': 14, 'Hour': 18, 'Minute': 0, 'Month': 5}
+MUSKETIER;244001312;Antwerp;Rotterdam;3.5;135.0;18.0;12.0;4.22;10000.0;2026-05-07 15:11:57.971119938;{'Day': 21, 'Hour': 19, 'Minute': 17, 'Month': 5}
+MUSKETIER;244001312;Antwerp;Rotterdam;3.5;135.0;18.0;14.0;4.22;10000.0;2026-05-07 15:32:58.900762794;{'Day': 21, 'Hour': 19, 'Minute': 17, 'Month': 5}
+MILANO;244690204;Antwerp;Rotterdam;3.0;135.0;12.0;15.0;4.22;10000.0;2026-05-07 21:31:15.858219277;{'Day': 26, 'Hour': 17, 'Minute': 21, 'Month': 5}
+MSC MARIA PIA;354711000;Felixstowe;Antwerp;11.2;196.0;33.0;2.0;1.79;10000.0;2026-05-07 23:19:05.411089134;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+WILLEM SR.;244660725;Antwerp;Rotterdam;3.7;110.0;12.0;16.0;4.22;10000.0;2026-05-07 23:45:48.881786606;{'Day': 26, 'Hour': 18, 'Minute': 40, 'Month': 5}
+MSC MARIA PIA;354711000;Antwerp;Felixstowe;11.2;196.0;33.0;0.0;2.24;10000.0;2026-05-07 23:53:40.059207705;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Felixstowe;Antwerp;11.2;196.0;33.0;6.0;1.79;10000.0;2026-05-08 00:19:26.306326401;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Antwerp;Felixstowe;11.2;196.0;33.0;0.0;2.24;10000.0;2026-05-08 00:32:40.685586800;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Felixstowe;Antwerp;11.2;196.0;33.0;3.0;1.79;10000.0;2026-05-08 01:04:14.869653010;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Antwerp;Felixstowe;11.2;196.0;33.0;0.0;2.24;10000.0;2026-05-08 01:34:15.947793198;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Antwerp;Felixstowe;11.2;196.0;33.0;0.0;2.24;10000.0;2026-05-08 01:44:53.413605956;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+ DONGE;244002380;Antwerp;Rotterdam;0.0;105.0;12.0;19.0;4.22;10000.0;2026-05-08 02:12:43.436197096;{'Day': 23, 'Hour': 13, 'Minute': 7, 'Month': 5}
+ DONGE;244002380;Antwerp;Rotterdam;0.0;105.0;12.0;23.0;4.22;10000.0;2026-05-08 02:33:50.314358812;{'Day': 23, 'Hour': 13, 'Minute': 7, 'Month': 5}
+LIBERTAS;253242357;Antwerp;Rotterdam;1.6;110.0;12.0;20.0;4.22;10000.0;2026-05-08 02:54:34.345197915;{'Day': 22, 'Hour': 11, 'Minute': 56, 'Month': 5}
+ORANJE NASSAU IV;269057072;Rotterdam;Antwerp;2.0;110.0;12.0;2.0;1.79;10000.0;2026-05-08 06:04:33.596374166;{'Day': 4, 'Hour': 13, 'Minute': 45, 'Month': 5}
+TRANQUILO;244070504;Rotterdam;Antwerp;1.9;110.0;14.0;2.0;1.79;10000.0;2026-05-08 07:07:11.985200944;{'Day': 8, 'Hour': 6, 'Minute': 36, 'Month': 5}
+ELISA-S;205530290;Antwerp;Rotterdam;3.3;135.0;18.0;21.0;4.22;10000.0;2026-05-08 17:16:13.294133231;{'Day': 11, 'Hour': 8, 'Minute': 43, 'Month': 5}
+CGAS PANTHER;249362000;Antwerp;Rotterdam;5.5;100.0;18.0;21.0;4.22;10000.0;2026-05-08 17:22:54.335524113;{'Day': 18, 'Hour': 19, 'Minute': 30, 'Month': 5}
+APL CALIFORNIA      ;248712000;Rotterdam;Antwerp;12.1;293.0;40.0;4.0;1.79;10000.0;2026-05-08 17:37:35.894350570;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+MANTYRANO;205521690;Antwerp;Rotterdam;0.4;110.0;14.0;21.0;4.22;10000.0;2026-05-08 17:45:24.100567909;{'Day': 8, 'Hour': 7, 'Minute': 38, 'Month': 5}
+APL CALIFORNIA      ;248712000;Rotterdam;Antwerp;12.1;293.0;40.0;6.0;1.79;10000.0;2026-05-08 17:56:29.162093741;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+LILAC RAY           ;636019637;Antwerp;Rotterdam;5.6;149.0;24.0;21.0;4.22;10000.0;2026-05-08 18:03:27.835154480;{'Day': 15, 'Hour': 0, 'Minute': 1, 'Month': 5}
+MANTYRANO;205521690;Antwerp;Rotterdam;0.4;110.0;14.0;10.0;4.22;10000.0;2026-05-08 18:50:24.392527248;{'Day': 8, 'Hour': 7, 'Minute': 38, 'Month': 5}
+XANTHOS;205546090;Antwerp;Rotterdam;2.4;135.0;12.0;10.0;4.22;10000.0;2026-05-08 19:04:14.952075250;{'Day': 27, 'Hour': 21, 'Minute': 38, 'Month': 5}
+APL CALIFORNIA      ;248712000;Rotterdam;Antwerp;12.1;293.0;40.0;1.0;1.79;10000.0;2026-05-08 19:44:47.575502928;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+HANOI EXPRESS       ;211120000;Rotterdam;Hamburg;11.6;400.0;61.0;8.0;5.14;10000.0;2026-05-08 20:54:37.855732026;{'Day': 15, 'Hour': 14, 'Minute': 0, 'Month': 5}
+HANOI EXPRESS       ;211120000;Rotterdam;Hamburg;11.6;400.0;61.0;16.0;5.14;10000.0;2026-05-08 21:24:35.430962742;{'Day': 15, 'Hour': 14, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;15.0;4.22;10000.0;2026-05-08 21:37:55.850040019;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+HANOI EXPRESS       ;211120000;Rotterdam;Hamburg;11.6;400.0;61.0;18.0;5.14;10000.0;2026-05-08 22:15:36.885618769;{'Day': 15, 'Hour': 14, 'Minute': 0, 'Month': 5}
+BERNARD M;244000935;Antwerp;Rotterdam;4.7;135.0;19.0;21.0;4.22;10000.0;2026-05-08 22:39:13.219239089;{'Day': 26, 'Hour': 4, 'Minute': 22, 'Month': 5}
+BERNARD M;244000935;Antwerp;Rotterdam;4.7;135.0;19.0;17.0;4.22;10000.0;2026-05-08 22:54:12.584767937;{'Day': 26, 'Hour': 4, 'Minute': 22, 'Month': 5}
+COVANO;244660491;Antwerp;Rotterdam;2.0;135.0;17.0;17.0;4.22;10000.0;2026-05-08 22:54:45.292254976;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+BERNARD M;244000935;Antwerp;Rotterdam;4.7;135.0;19.0;17.0;4.22;10000.0;2026-05-08 23:00:12.154148148;{'Day': 26, 'Hour': 4, 'Minute': 22, 'Month': 5}
+HANOI EXPRESS       ;211120000;Rotterdam;Hamburg;11.6;400.0;61.0;10.0;5.14;10000.0;2026-05-08 23:00:37.591819539;{'Day': 15, 'Hour': 14, 'Minute': 0, 'Month': 5}
+COVANO;244660491;Antwerp;Rotterdam;2.0;135.0;17.0;17.0;4.22;10000.0;2026-05-08 23:06:46.757709327;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+COVANO;244660491;Rotterdam;Antwerp;2.0;135.0;17.0;7.0;1.79;10000.0;2026-05-08 23:21:30.122503625;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+BERNARD M;244000935;Antwerp;Rotterdam;4.7;135.0;19.0;20.0;4.22;10000.0;2026-05-08 23:45:11.939187285;{'Day': 26, 'Hour': 4, 'Minute': 22, 'Month': 5}
+COVANO;244660491;Antwerp;Rotterdam;2.0;135.0;17.0;20.0;4.22;10000.0;2026-05-08 23:48:44.298714015;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;6.0;1.79;10000.0;2026-05-08 23:50:11.368529192;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+APL CALIFORNIA      ;248712000;Rotterdam;Antwerp;12.1;293.0;40.0;6.0;1.79;10000.0;2026-05-08 23:54:59.099479220;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+APL CALIFORNIA      ;248712000;Antwerp;Rotterdam;12.1;293.0;40.0;20.0;4.22;10000.0;2026-05-08 23:58:51.728348925;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;20.0;4.22;10000.0;2026-05-09 00:02:38.080959394;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;6.0;1.79;10000.0;2026-05-09 00:04:28.371653655;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;20.0;4.22;10000.0;2026-05-09 00:08:39.616295152;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+IVERNIA;244030198;Antwerp;Rotterdam;0.0;135.0;16.0;20.0;4.22;10000.0;2026-05-09 00:08:52.633858395;{'Day': 28, 'Hour': 10, 'Minute': 37, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;6.0;1.79;10000.0;2026-05-09 00:08:59.111510296;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+MANTYRANO;205521690;Antwerp;Rotterdam;0.4;110.0;14.0;20.0;4.22;10000.0;2026-05-09 00:10:24.821059523;{'Day': 8, 'Hour': 7, 'Minute': 38, 'Month': 5}
+APL CALIFORNIA      ;248712000;Antwerp;Rotterdam;12.1;293.0;40.0;22.0;4.22;10000.0;2026-05-09 00:16:51.725247769;{'Day': 11, 'Hour': 8, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;22.0;4.22;10000.0;2026-05-09 00:17:37.224048779;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;12.0;1.79;10000.0;2026-05-09 00:31:26.183681429;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;22.0;4.22;10000.0;2026-05-09 00:35:37.422439499;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;22.0;4.22;10000.0;2026-05-09 00:36:26.072790705;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+COVANO;244660491;Antwerp;Rotterdam;2.0;135.0;17.0;22.0;4.22;10000.0;2026-05-09 00:36:46.289016712;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;8.0;1.79;10000.0;2026-05-09 00:47:25.842226398;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;16.0;4.22;10000.0;2026-05-09 01:02:39.430250891;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;23.0;4.22;10000.0;2026-05-09 01:27:25.006251390;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Rotterdam;Antwerp;2.7;106.0;12.0;16.0;1.79;10000.0;2026-05-09 01:34:31.641994308;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;23.0;4.22;10000.0;2026-05-09 01:39:27.649730261;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+ATLANTIC PARTNER;244670809;Rotterdam;Antwerp;4.3;110.0;12.0;16.0;1.79;10000.0;2026-05-09 01:39:55.124520868;{'Day': 16, 'Hour': 0, 'Minute': 0, 'Month': 7}
+ATLANTIC PARTNER;244670809;Antwerp;Rotterdam;4.3;110.0;12.0;23.0;4.22;10000.0;2026-05-09 01:41:29.976114872;{'Day': 16, 'Hour': 0, 'Minute': 0, 'Month': 7}
+CAMARO;244650847;Antwerp;Rotterdam;3.0;188.0;22.0;23.0;4.22;10000.0;2026-05-09 01:41:31.833939976;{'Day': 7, 'Hour': 7, 'Minute': 56, 'Month': 5}
+LILAC RAY           ;636019637;Antwerp;Rotterdam;5.6;149.0;24.0;22.0;4.22;10000.0;2026-05-09 01:48:27.835454307;{'Day': 15, 'Hour': 0, 'Minute': 1, 'Month': 5}
+RIVER DRONE 7;205568190;Rotterdam;Antwerp;2.7;106.0;12.0;8.0;1.79;10000.0;2026-05-09 01:53:22.721599739;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;22.0;4.22;10000.0;2026-05-09 01:54:28.219054304;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Rotterdam;Antwerp;3.8;187.0;12.0;8.0;1.79;10000.0;2026-05-09 02:10:37.972286008;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+USHUAIA;244660962;Antwerp;Rotterdam;3.8;187.0;12.0;22.0;4.22;10000.0;2026-05-09 02:11:40.281122904;{'Day': 15, 'Hour': 15, 'Minute': 0, 'Month': 5}
+IVERNIA;244030198;Antwerp;Rotterdam;0.0;135.0;16.0;22.0;4.22;10000.0;2026-05-09 02:11:54.012191703;{'Day': 28, 'Hour': 10, 'Minute': 37, 'Month': 5}
+RIVER DRONE 7;205568190;Rotterdam;Antwerp;2.7;106.0;12.0;10.0;1.79;10000.0;2026-05-09 02:17:09.068872434;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+LILAC RAY           ;636019637;Antwerp;Rotterdam;5.6;149.0;24.0;18.0;4.22;10000.0;2026-05-09 02:24:27.829449236;{'Day': 15, 'Hour': 0, 'Minute': 1, 'Month': 5}
+IVERNIA;244030198;Antwerp;Rotterdam;0.0;135.0;16.0;18.0;4.22;10000.0;2026-05-09 02:29:54.688529821;{'Day': 28, 'Hour': 10, 'Minute': 37, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;18.0;4.22;10000.0;2026-05-09 02:36:28.556795287;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+CGAS PANTHER;249362000;Rotterdam;Antwerp;5.5;100.0;18.0;10.0;1.79;10000.0;2026-05-09 02:42:59.263138698;{'Day': 18, 'Hour': 19, 'Minute': 30, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;13.0;4.22;10000.0;2026-05-09 02:51:27.273601221;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+PROVIDER;244002399;Antwerp;Rotterdam;1.6;110.0;14.0;13.0;4.22;10000.0;2026-05-09 03:06:12.471046702;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;21.0;4.22;10000.0;2026-05-09 03:33:25.021841462;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+ATLANTIC PARTNER;244670809;Antwerp;Rotterdam;4.3;110.0;12.0;21.0;4.22;10000.0;2026-05-09 03:38:38.479237487;{'Day': 16, 'Hour': 0, 'Minute': 0, 'Month': 7}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;21.0;4.22;10000.0;2026-05-09 03:39:29.013322294;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+ATLANTIC PARTNER;244670809;Antwerp;Rotterdam;4.3;110.0;12.0;20.0;4.22;10000.0;2026-05-09 03:47:29.168041790;{'Day': 16, 'Hour': 0, 'Minute': 0, 'Month': 7}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;20.0;4.22;10000.0;2026-05-09 03:57:26.007849130;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+RIVER DRONE 7;205568190;Antwerp;Rotterdam;2.7;106.0;12.0;20.0;4.22;10000.0;2026-05-09 04:03:25.042061341;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+COVANO;244660491;Antwerp;Rotterdam;2.0;135.0;17.0;21.0;4.22;10000.0;2026-05-09 04:49:22.944436839;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+H&S FAIRNESS;246822000;Felixstowe;Rotterdam;4.0;88.0;14.0;10.0;4.22;10000.0;2026-05-09 07:35:08.621478897;{'Day': 30, 'Hour': 8, 'Minute': 0, 'Month': 5}
+STENA HOLLANDICA;244758000;Felixstowe;Rotterdam;6.1;240.0;32.0;15.0;4.22;10000.0;2026-05-09 09:20:12.393224704;{'Day': 27, 'Hour': 18, 'Minute': 0, 'Month': 5}
+H&S FAIRNESS;246822000;Felixstowe;Rotterdam;4.0;88.0;14.0;7.0;4.22;10000.0;2026-05-09 10:32:08.519530671;{'Day': 30, 'Hour': 8, 'Minute': 0, 'Month': 5}
+LUNNI               ;230690000;Antwerp;Rotterdam;9.3;156.0;24.0;10.0;4.22;10000.0;2026-05-09 10:57:37.404435077;{'Day': 27, 'Hour': 8, 'Minute': 0, 'Month': 5}
+BOB ROSS;244001754;Antwerp;Rotterdam;3.8;135.0;18.0;10.0;4.22;10000.0;2026-05-09 11:10:29.497004831;{'Day': 27, 'Hour': 0, 'Minute': 6, 'Month': 5}
+BOB ROSS;244001754;Antwerp;Rotterdam;3.8;135.0;18.0;12.0;4.22;10000.0;2026-05-09 12:25:31.390288315;{'Day': 27, 'Hour': 0, 'Minute': 6, 'Month': 5}
+HENRIKA SCHULTE;563307900;Rotterdam;Antwerp;11.7;275.0;40.0;6.0;1.79;10000.0;2026-05-09 13:08:17.144564743;{'Day': 24, 'Hour': 2, 'Minute': 0, 'Month': 5}
+PROVIDER;244002399;Antwerp;Rotterdam;1.6;110.0;14.0;15.0;4.22;10000.0;2026-05-09 15:54:09.137591886;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+IBN AL ABBAR        ;357286000;Hong;Busan;8.2;182.0;27.0;29.0;2.06;10000.0;2026-05-09 16:27:12.798162212;{'Day': 30, 'Hour': 7, 'Minute': 30, 'Month': 4}
+INTERASIA TACTIC    ;563263100;Hong;Busan;9.6;204.0;35.0;29.0;2.06;10000.0;2026-05-09 16:44:44.755465974;{'Day': 26, 'Hour': 2, 'Minute': 0, 'Month': 5}
+CMA CGM CARL ANTOINE;248030000;Hamburg;Antwerp;11.8;300.0;49.0;13.0;1.79;10000.0;2026-05-09 20:38:41.815147353;{'Day': 5, 'Hour': 23, 'Minute': 35, 'Month': 7}
+MIAMI;269057010;Rotterdam;Antwerp;3.4;110.0;12.0;9.0;1.79;10000.0;2026-05-10 01:34:29.468931541;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+MAERSK CAP JERVIS   ;563052700;Singapore;Busan;11.9;264.0;32.0;11.0;2.06;10000.0;2026-05-10 02:10:15.921281212;{'Day': 19, 'Hour': 14, 'Minute': 45, 'Month': 5}
+CMA CGM TOSCA;256824000;Rotterdam;Hamburg;11.7;334.0;43.0;11.0;5.14;10000.0;2026-05-10 04:00:28.765987295;{'Day': 5, 'Hour': 20, 'Minute': 30, 'Month': 9}
+ELBWIND;210017000;Bremerhaven;Hamburg;6.7;151.0;23.0;9.0;5.14;10000.0;2026-05-10 06:47:51.358010978;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+BOCHEM ROTTERDAM    ;255915671;Rotterdam;Hamburg;8.1;159.0;27.0;8.0;5.14;10000.0;2026-05-10 09:30:52.408392842;{'Day': 10, 'Hour': 3, 'Minute': 0, 'Month': 5}
+MERVE;211236200;Rotterdam;Antwerp;1.6;125.0;12.0;6.0;1.79;10000.0;2026-05-10 09:31:17.937075432;{'Day': 20, 'Hour': 4, 'Minute': 48, 'Month': 5}
+ELBWIND;210017000;Hamburg;Bremerhaven;6.7;151.0;23.0;9.0;7.09;6188.0;2026-05-10 09:50:22.197114963;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+ELBWIND;210017000;Hamburg;Bremerhaven;6.7;151.0;23.0;9.0;7.09;6188.0;2026-05-10 10:08:21.102506353;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+SOMTRANS XXII;244650777;Antwerp;Rotterdam;2.8;88.0;12.0;11.0;4.22;10000.0;2026-05-10 10:08:46.417261439;{'Day': 13, 'Hour': 8, 'Minute': 8, 'Month': 4}
+ELBWIND;210017000;Bremerhaven;Rotterdam;6.7;151.0;23.0;13.0;4.22;10000.0;2026-05-10 10:23:09.583587526;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+ELBWIND;210017000;Rotterdam;Bremerhaven;6.7;151.0;23.0;5.0;7.09;6188.0;2026-05-10 10:23:22.639425533;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+MAERSK NOTODDEN     ;352005901;Hong;Busan;6.8;172.0;32.0;24.0;2.06;10000.0;2026-05-10 12:36:17.883335181;{'Day': 26, 'Hour': 3, 'Minute': 30, 'Month': 5}
+H&S FAIRNESS;246822000;Felixstowe;Rotterdam;4.0;88.0;14.0;6.0;4.22;10000.0;2026-05-10 13:56:09.840691245;{'Day': 30, 'Hour': 8, 'Minute': 0, 'Month': 5}
+ELBWAVE;209276000;Bremerhaven;Hamburg;8.0;153.0;24.0;14.0;5.14;10000.0;2026-05-10 17:58:24.787328062;{'Day': 19, 'Hour': 13, 'Minute': 0, 'Month': 5}
+BANCO               ;205505590;Antwerp;Rotterdam;3.9;110.0;12.0;11.0;4.22;10000.0;2026-05-10 23:38:26.396527711;{'Day': 24, 'Hour': 7, 'Minute': 53, 'Month': 5}
+MARBURG             ;305978000;Bremerhaven;Hamburg;8.1;158.0;23.0;22.0;5.14;10000.0;2026-05-11 05:07:06.096532753;{'Day': 19, 'Hour': 4, 'Minute': 0, 'Month': 5}
+SAMOON;244180624;Rotterdam;Antwerp;2.6;110.0;12.0;7.0;1.79;10000.0;2026-05-11 05:42:15.075008636;{'Day': 28, 'Hour': 6, 'Minute': 11, 'Month': 5}
+CMA CGM SORBONNE;228038360;Hamburg;Antwerp;13.9;400.0;62.0;8.0;1.79;10000.0;2026-05-11 09:19:45.174977609;{'Day': 1, 'Hour': 2, 'Minute': 0, 'Month': 5}
+HENRIKA SCHULTE;563307900;Antwerp;Bremerhaven;11.7;275.0;40.0;1.0;7.09;6188.0;2026-05-11 09:56:48.891045235;{'Day': 24, 'Hour': 2, 'Minute': 0, 'Month': 5}
+BALANCE;244620935;Rotterdam;Antwerp;0.0;135.0;12.0;1.0;1.79;10000.0;2026-05-11 14:58:51.720189639;{'Day': 24, 'Hour': 12, 'Minute': 58, 'Month': 5}
+BENTAYGA;205562190;Antwerp;Rotterdam;3.8;135.0;12.0;18.0;4.22;10000.0;2026-05-11 17:14:18.054653413;{'Day': 21, 'Hour': 4, 'Minute': 11, 'Month': 4}
+JASMAR              ;211516560;Rotterdam;Bremerhaven;2.4;106.0;11.0;5.0;7.09;6188.0;2026-05-11 17:51:21.957712813;{'Day': 10, 'Hour': 14, 'Minute': 49, 'Month': 5}
+MSC DOLETTE         ;636024940;Rotterdam;Hamburg;11.8;366.0;51.0;11.0;5.14;10000.0;2026-05-18 11:27:00.018185266;{'Day': 24, 'Hour': 19, 'Minute': 0, 'Month': 6}
+NIEDERSACHSEN 9;211473580;Rotterdam;Hamburg;2.5;85.0;9.0;11.0;5.14;10000.0;2026-05-18 11:27:01.167046185;{'Day': 9, 'Hour': 20, 'Minute': 0, 'Month': 4}
+DORNBUSCH;211234480;Hamburg;Rotterdam;4.6;101.0;18.0;18.0;4.22;10000.0;2026-05-18 11:27:01.848419788;{'Day': 7, 'Hour': 23, 'Minute': 59, 'Month': 5}
+MS JUTLAND          ;211718360;Rotterdam;Hamburg;4.8;90.0;13.0;11.0;5.14;10000.0;2026-05-18 11:27:05.135890035;{'Day': 23, 'Hour': 21, 'Minute': 0, 'Month': 5}
+MSC ADELE           ;636025331;Rotterdam;Le;11.4;335.0;46.0;3.0;;;2026-05-18 11:27:06.884148577;{'Day': 21, 'Hour': 5, 'Minute': 0, 'Month': 5}
+TWAITE;253242489;Rotterdam;Antwerp;2.7;106.0;12.0;13.0;1.79;10000.0;2026-05-18 11:27:07.326120058;{'Day': 27, 'Hour': 23, 'Minute': 50, 'Month': 5}
+CONQUEST;269057005;Rotterdam;Antwerp;2.0;125.0;12.0;13.0;1.79;10000.0;2026-05-18 11:27:11.585093950;{'Day': 18, 'Hour': 5, 'Minute': 30, 'Month': 4}
+BANGKOK EXPRESS     ;211108330;Rotterdam;Hamburg;10.7;400.0;61.0;11.0;5.14;10000.0;2026-05-18 11:27:13.565662266;{'Day': 22, 'Hour': 10, 'Minute': 0, 'Month': 5}
+ELBE                ;244532000;Hamburg;Rotterdam;4.6;59.0;12.0;18.0;4.22;10000.0;2026-05-18 11:27:14.545940415;{'Day': 12, 'Hour': 9, 'Minute': 0, 'Month': 5}
+GSL CHRISTEL ELISABE;636015685;Hamburg;New;13.2;277.0;40.0;2.0;;;2026-05-18 11:27:26.143082448;{'Day': 6, 'Hour': 16, 'Minute': 30, 'Month': 5}
+NAUSICAA            ;205388690;Antwerp;Rotterdam;1.0;110.0;12.0;18.0;4.22;10000.0;2026-05-18 11:27:35.367087075;{'Day': 19, 'Hour': 16, 'Minute': 58, 'Month': 5}
+MYRIAM;244375332;Antwerp;Rotterdam;1.4;135.0;18.0;18.0;4.22;10000.0;2026-05-18 11:27:38.019089582;{'Day': 27, 'Hour': 17, 'Minute': 46, 'Month': 5}
+VEENINGEN           ;244630651;Rotterdam;Antwerp;3.7;110.0;14.0;13.0;1.79;10000.0;2026-05-18 11:27:38.720465767;{'Day': 30, 'Hour': 8, 'Minute': 52, 'Month': 5}
+VERANO;205435990;Antwerp;Rotterdam;0.0;125.0;11.0;18.0;4.22;10000.0;2026-05-18 11:27:42.588143458;{'Day': 16, 'Hour': 18, 'Minute': 23, 'Month': 4}
+SOLITAS-H           ;255916285;Rotterdam;Hamburg;5.4;89.0;12.0;11.0;5.14;10000.0;2026-05-18 11:27:51.270893221;{'Day': 22, 'Hour': 17, 'Minute': 0, 'Month': 5}
+MAXINE DEYMANN;211131790;Rotterdam;Antwerp;2.1;135.0;18.0;13.0;1.79;10000.0;2026-05-18 11:27:52.042285743;{'Day': 24, 'Hour': 9, 'Minute': 0, 'Month': 5}
+CMA CGM FIDELIO;229808000;Le;New;13.5;349.0;42.0;2.0;;;2026-05-18 11:27:57.290969127;{'Day': 16, 'Hour': 18, 'Minute': 0, 'Month': 5}
+CSCL ATLANTIC OCEAN ;477967800;Rotterdam;Hamburg;12.2;400.0;58.0;11.0;5.14;10000.0;2026-05-18 11:27:58.815957970;{'Day': 17, 'Hour': 19, 'Minute': 0, 'Month': 5}
+SENDO MARE;244181802;Rotterdam;Antwerp;3.9;124.0;15.0;13.0;1.79;10000.0;2026-05-18 11:27:58.845991335;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+BIRJO III;205587390;Rotterdam;Antwerp;1.6;135.0;12.0;13.0;1.79;10000.0;2026-05-18 11:28:02.928619751;{'Day': 27, 'Hour': 5, 'Minute': 31, 'Month': 5}
+HOLGER G.           ;255916493;Bremerhaven;Hamburg;5.0;89.0;13.0;11.0;5.14;10000.0;2026-05-18 11:28:05.325615700;{'Day': 25, 'Hour': 6, 'Minute': 0, 'Month': 5}
+TRIPOLI             ;205278390;Rotterdam;Antwerp;3.1;135.0;18.0;13.0;1.79;10000.0;2026-05-18 11:28:06.542799623;{'Day': 28, 'Hour': 0, 'Minute': 20, 'Month': 5}
+AS CLAUDIA          ;636093159;Bremerhaven;Hamburg;11.2;222.0;30.0;11.0;5.14;10000.0;2026-05-18 11:28:07.004461059;{'Day': 20, 'Hour': 3, 'Minute': 0, 'Month': 5}
+ATAIR;211297130;Hamburg;Bremerhaven;5.0;74.0;16.0;1.0;7.09;6188.0;2026-05-18 11:28:09.972377496;{'Day': 8, 'Hour': 13, 'Minute': 13, 'Month': 5}
+BLUE INGE;244041722;Antwerp;Rotterdam;1.9;110.0;12.0;18.0;4.22;10000.0;2026-05-18 11:28:12.647064751;{'Day': 26, 'Hour': 21, 'Minute': 0, 'Month': 5}
+GROENENDAAL;244029535;Rotterdam;Antwerp;4.0;135.0;18.0;13.0;1.79;10000.0;2026-05-18 11:28:13.389436595;{'Day': 16, 'Hour': 2, 'Minute': 19, 'Month': 12}
+AGATH               ;209168000;Rotterdam;Antwerp;6.6;121.0;16.0;13.0;1.79;10000.0;2026-05-18 11:28:15.506018681;{'Day': 11, 'Hour': 21, 'Minute': 0, 'Month': 5}
+EUROPORTS;205505790;Rotterdam;Antwerp;2.0;134.0;16.0;13.0;1.79;10000.0;2026-05-18 11:28:21.920839745;{'Day': 25, 'Hour': 15, 'Minute': 0, 'Month': 5}
+MERVE;211236200;Antwerp;Rotterdam;1.6;125.0;12.0;18.0;4.22;10000.0;2026-05-18 11:28:22.159971141;{'Day': 20, 'Hour': 4, 'Minute': 48, 'Month': 5}
+TYPHOON;245889000;Antwerp;Rotterdam;3.0;100.0;14.0;18.0;4.22;10000.0;2026-05-18 11:28:22.530331543;{'Day': 24, 'Hour': 10, 'Minute': 0, 'Month': 5}
+IDUNA;244670789;Antwerp;Rotterdam;3.0;135.0;15.0;18.0;4.22;10000.0;2026-05-18 11:28:25.131555791;{'Day': 22, 'Hour': 11, 'Minute': 9, 'Month': 10}
+CORYLOPHIDA;253465000;Antwerp;Rotterdam;3.0;86.0;10.0;18.0;4.22;10000.0;2026-05-18 11:28:34.485138032;{'Day': 20, 'Hour': 12, 'Minute': 26, 'Month': 5}
+ACACIA SEAWAYS;277574000;Rotterdam;Felixstowe;6.5;210.0;26.0;0.0;2.24;10000.0;2026-05-18 11:28:34.906140706;{'Day': 28, 'Hour': 3, 'Minute': 0, 'Month': 5}
+OASE;244670538;Rotterdam;Antwerp;0.0;135.0;16.0;13.0;1.79;10000.0;2026-05-18 11:28:36.024865534;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+LISA;211785210;Antwerp;Rotterdam;1.3;86.0;11.0;18.0;4.22;10000.0;2026-05-18 11:28:37.254844339;{'Day': 21, 'Hour': 18, 'Minute': 53, 'Month': 5}
+SANTIAGO;205589590;Rotterdam;Antwerp;1.5;135.0;18.0;13.0;1.79;10000.0;2026-05-18 11:28:39.646268828;{'Day': 28, 'Hour': 2, 'Minute': 26, 'Month': 5}
+EVER BOOMY          ;370700000;Singapore;Hong;10.0;212.0;33.0;9.0;;;2026-05-18 11:28:39.785661149;{'Day': 11, 'Hour': 4, 'Minute': 0, 'Month': 5}
+GLOVIS SIRIUS       ;440258000;Antwerp;Bremerhaven;9.4;199.0;35.0;1.0;7.09;6188.0;2026-05-18 11:28:44.360299220;{'Day': 12, 'Hour': 19, 'Minute': 0, 'Month': 5}
+NORWEGIAN SKY;308865000;Hamburg;Le;8.1;258.0;32.0;3.0;;;2026-05-18 11:28:44.898167931;{'Day': 20, 'Hour': 4, 'Minute': 30, 'Month': 5}
+PAPILLON;244700428;Antwerp;Rotterdam;0.0;135.0;12.0;18.0;4.22;10000.0;2026-05-18 11:28:45.353936464;{'Day': 22, 'Hour': 16, 'Minute': 17, 'Month': 5}
+TULIPA SEAWAYS;277548000;Felixstowe;Rotterdam;6.1;209.0;26.0;18.0;4.22;10000.0;2026-05-18 11:28:48.714336324;{'Day': 28, 'Hour': 14, 'Minute': 15, 'Month': 5}
+BOLERO;244000542;Rotterdam;Antwerp;0.0;135.0;18.0;13.0;1.79;10000.0;2026-05-18 11:28:49.306114213;{'Day': 23, 'Hour': 14, 'Minute': 57, 'Month': 5}
+VORSTENBOSCH;244660862;Rotterdam;Antwerp;4.5;148.0;23.0;13.0;1.79;10000.0;2026-05-18 11:28:50.432663815;{'Day': 11, 'Hour': 6, 'Minute': 45, 'Month': 5}
+EM HYDRA;636014956;Hamburg;Antwerp;8.9;174.0;27.0;13.0;1.79;10000.0;2026-05-18 11:28:52.605670963;{'Day': 11, 'Hour': 10, 'Minute': 30, 'Month': 5}
+MSC ROSE            ;636023564;Bremerhaven;Antwerp;13.2;364.0;51.0;13.0;1.79;10000.0;2026-05-18 11:29:03.685811401;{'Day': 23, 'Hour': 4, 'Minute': 0, 'Month': 5}
+ECO KHAMSIN         ;249537000;Antwerp;Rotterdam;7.3;148.0;27.0;18.0;4.22;10000.0;2026-05-18 11:29:04.978183146;{'Day': 23, 'Hour': 2, 'Minute': 0, 'Month': 5}
+TRANSFERIUM         ;244630169;Antwerp;Rotterdam;3.6;97.0;23.0;18.0;4.22;10000.0;2026-05-18 11:29:16.534761819;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+STI ROTHERHITHE     ;538005409;Hamburg;Antwerp;7.5;184.0;27.0;13.0;1.79;10000.0;2026-05-18 11:29:17.818045751;{'Day': 11, 'Hour': 18, 'Minute': 0, 'Month': 5}
+CMA CGM LOUVRE;228394900;Rotterdam;Antwerp;14.9;400.0;62.0;13.0;1.79;10000.0;2026-05-18 11:29:19.377319408;{'Day': 10, 'Hour': 7, 'Minute': 0, 'Month': 5}
+GOUWENAAR 2;244140389;Antwerp;Rotterdam;2.0;90.0;11.0;18.0;4.22;10000.0;2026-05-18 11:29:19.814364049;{'Day': 5, 'Hour': 21, 'Minute': 45, 'Month': 2}
+ANBIEN BAY          ;574005610;Singapore;Hong;8.5;172.0;28.0;9.0;;;2026-05-18 11:29:27.806827511;{'Day': 6, 'Hour': 21, 'Minute': 9, 'Month': 5}
+SOPHIA;244660720;Rotterdam;Antwerp;2.5;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:29:29.157004842;{'Day': 27, 'Hour': 17, 'Minute': 0, 'Month': 5}
+DAMPEZZO;205529990;Rotterdam;Antwerp;2.0;135.0;12.0;13.0;1.79;10000.0;2026-05-18 11:29:31.286101689;{'Day': 4, 'Hour': 21, 'Minute': 56, 'Month': 5}
+BALTIC DREAM;245246000;Rotterdam;Antwerp;3.4;88.0;13.0;13.0;1.79;10000.0;2026-05-18 11:29:31.322415738;{'Day': 7, 'Hour': 23, 'Minute': 0, 'Month': 5}
+SARDAN;205229190;Antwerp;Rotterdam;3.7;110.0;14.0;18.0;4.22;10000.0;2026-05-18 11:29:32.092528874;{'Day': 14, 'Hour': 17, 'Minute': 55, 'Month': 5}
+MSC OLBIA           ;636024511;Felixstowe;Antwerp;12.1;366.0;51.0;13.0;1.79;10000.0;2026-05-18 11:29:32.093522094;{'Day': 22, 'Hour': 2, 'Minute': 0, 'Month': 5}
+STENA HOLLANDICA;244758000;Felixstowe;Rotterdam;6.1;240.0;32.0;18.0;4.22;10000.0;2026-05-18 11:29:38.846148140;{'Day': 27, 'Hour': 18, 'Minute': 0, 'Month': 5}
+KOSOVA              ;352005315;Rotterdam;Antwerp;6.5;180.0;32.0;13.0;1.79;10000.0;2026-05-18 11:29:38.993353897;{'Day': 28, 'Hour': 19, 'Minute': 0, 'Month': 4}
+RLO MERCHANT        ;245323000;Bremerhaven;Rotterdam;4.4;88.0;13.0;18.0;4.22;10000.0;2026-05-18 11:29:43.439470105;{'Day': 28, 'Hour': 5, 'Minute': 0, 'Month': 5}
+KOTA PELANGI        ;563042400;Singapore;Hong;10.7;330.0;48.0;9.0;;;2026-05-18 11:29:48.719115942;{'Day': 13, 'Hour': 2, 'Minute': 0, 'Month': 5}
+MSC DOMNA X;636022657;Le;New;14.6;347.0;43.0;2.0;;;2026-05-18 11:29:54.130338206;{'Day': 15, 'Hour': 3, 'Minute': 0, 'Month': 5}
+ORANJE NASSAU 2;244620876;Rotterdam;Antwerp;4.2;110.0;14.0;13.0;1.79;10000.0;2026-05-18 11:29:55.346344472;{'Day': 28, 'Hour': 18, 'Minute': 39, 'Month': 5}
+OCEAN VICTORY;255806394;Le;Bremerhaven;5.3;104.0;18.0;1.0;7.09;6188.0;2026-05-18 11:29:56.318711735;{'Day': 4, 'Hour': 7, 'Minute': 0, 'Month': 5}
+MAERSK MONTE LINZOR ;563051200;Rotterdam;New;11.2;272.0;40.0;2.0;;;2026-05-18 11:29:59.443663446;{'Day': 17, 'Hour': 7, 'Minute': 0, 'Month': 5}
+RHOGAS              ;305793000;Hamburg;Rotterdam;6.5;113.0;19.0;18.0;4.22;10000.0;2026-05-18 11:30:05.247040856;{'Day': 23, 'Hour': 20, 'Minute': 30, 'Month': 5}
+GRANDE GABON        ;247304600;Hamburg;Antwerp;7.7;211.0;32.0;13.0;1.79;10000.0;2026-05-18 11:30:05.898695590;{'Day': 10, 'Hour': 5, 'Minute': 0, 'Month': 5}
+ATLANTIC SAIL       ;215809000;New;Hamburg;8.7;296.0;37.0;11.0;5.14;10000.0;2026-05-18 11:30:08.473854700;{'Day': 19, 'Hour': 11, 'Minute': 0, 'Month': 5}
+DICTADOR            ;636023377;Antwerp;Rotterdam;9.5;150.0;23.0;18.0;4.22;10000.0;2026-05-18 11:30:10.605527606;{'Day': 19, 'Hour': 16, 'Minute': 0, 'Month': 5}
+CHEM MERCURY        ;253690000;Antwerp;Rotterdam;9.3;147.0;24.0;18.0;4.22;10000.0;2026-05-18 11:30:10.865614332;{'Day': 5, 'Hour': 3, 'Minute': 0, 'Month': 6}
+KLAIPEDA;277391000;Bremerhaven;Rotterdam;5.9;88.0;13.0;18.0;4.22;10000.0;2026-05-18 11:30:13.569849361;{'Day': 26, 'Hour': 14, 'Minute': 0, 'Month': 5}
+CMA CGM VENDOME;563294600;Le;Rotterdam;15.9;400.0;62.0;18.0;4.22;10000.0;2026-05-18 11:30:14.637653738;{'Day': 10, 'Hour': 11, 'Minute': 30, 'Month': 5}
+SCHUBERT;205578190;Rotterdam;Antwerp;1.7;136.0;16.0;13.0;1.79;10000.0;2026-05-18 11:33:11.006163260;{'Day': 24, 'Hour': 14, 'Minute': 32, 'Month': 5}
+UIKKU               ;230689000;Rotterdam;Antwerp;6.7;156.0;24.0;13.0;1.79;10000.0;2026-05-18 11:33:17.546652106;{'Day': 3, 'Hour': 15, 'Minute': 0, 'Month': 5}
+SIBO;244820397;Rotterdam;Antwerp;1.7;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:33:18.517071498;{'Day': 11, 'Hour': 17, 'Minute': 30, 'Month': 5}
+ANNETTE ESSBERGER   ;255806303;Antwerp;Rotterdam;5.6;127.0;19.0;18.0;4.22;10000.0;2026-05-18 11:33:18.648596887;{'Day': 19, 'Hour': 15, 'Minute': 0, 'Month': 5}
+VISIOEN;244670040;Rotterdam;Antwerp;0.0;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:33:20.821993780;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+ZUIDZEE;205278990;Rotterdam;Antwerp;3.4;135.0;11.0;13.0;1.79;10000.0;2026-05-18 11:33:21.159087039;{'Day': 22, 'Hour': 0, 'Minute': 27, 'Month': 5}
+SAVONA;205544190;Rotterdam;Antwerp;0.2;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:33:23.212158267;{'Day': 25, 'Hour': 18, 'Minute': 2, 'Month': 5}
+EVA TOKYO           ;371809000;Hamburg;Rotterdam;5.0;146.0;24.0;18.0;4.22;10000.0;2026-05-18 11:33:27.274679308;{'Day': 11, 'Hour': 10, 'Minute': 0, 'Month': 5}
+HANSA DREJOE        ;255916022;Felixstowe;Antwerp;4.4;98.0;16.0;13.0;1.79;10000.0;2026-05-18 11:33:27.486355538;{'Day': 24, 'Hour': 11, 'Minute': 0, 'Month': 5}
+LADY ELA            ;538003488;Rotterdam;Hamburg;7.1;123.0;18.0;11.0;5.14;10000.0;2026-05-18 11:33:34.489082167;{'Day': 23, 'Hour': 5, 'Minute': 0, 'Month': 5}
+ZINNIA;205333890;Rotterdam;Antwerp;2.0;80.0;9.0;13.0;1.79;10000.0;2026-05-18 11:35:41.082603507;{'Day': 4, 'Hour': 21, 'Minute': 8, 'Month': 5}
+THUNDERBIRD 3;244020916;Rotterdam;Antwerp;0.0;64.0;8.0;13.0;1.79;10000.0;2026-05-18 11:35:47.900574614;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+MSC CARLOTTA        ;636018106;Los;Vancouver;11.1;314.0;48.0;21.0;0.89;10000.0;2026-05-18 11:35:48.091273647;{'Day': 27, 'Hour': 10, 'Minute': 0, 'Month': 5}
+MSC TIGER III;636025920;Singapore;Hong;11.6;207.0;30.0;9.0;;;2026-05-18 11:35:49.033254923;{'Day': 26, 'Hour': 0, 'Minute': 1, 'Month': 5}
+LARS;244000828;Rotterdam;Antwerp;0.0;135.0;24.0;13.0;1.79;10000.0;2026-05-18 11:35:52.055602979;{'Day': 23, 'Hour': 17, 'Minute': 14, 'Month': 5}
+THEGER;205571790;Rotterdam;Antwerp;2.7;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:35:55.966075619;{'Day': 20, 'Hour': 11, 'Minute': 44, 'Month': 5}
+WELS;211573560;Hamburg;Bremerhaven;2.5;80.0;10.0;1.0;7.09;6188.0;2026-05-18 11:36:02.890078972;{'Day': 7, 'Hour': 14, 'Minute': 0, 'Month': 5}
+MONOMERA;253000104;Antwerp;Rotterdam;0.0;101.0;10.0;18.0;4.22;10000.0;2026-05-18 11:36:04.142551603;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+DP WORLD LIMASSOL   ;210332000;Bremerhaven;Hamburg;9.1;168.0;27.0;11.0;5.14;10000.0;2026-05-18 11:36:12.797619848;{'Day': 18, 'Hour': 21, 'Minute': 0, 'Month': 5}
+PROCYON;244650553;Antwerp;Rotterdam;2.0;135.0;15.0;18.0;4.22;10000.0;2026-05-18 11:36:17.630216186;{'Day': 16, 'Hour': 0, 'Minute': 20, 'Month': 5}
+MARIA JEANET ;244700376;Antwerp;Rotterdam;0.1;110.0;10.0;18.0;4.22;10000.0;2026-05-18 11:36:19.737224381;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+BRISE;244660418;Antwerp;Rotterdam;1.6;108.0;12.0;18.0;4.22;10000.0;2026-05-18 11:36:21.400070764;{'Day': 17, 'Hour': 14, 'Minute': 0, 'Month': 5}
+POOLZEE;205435190;Rotterdam;Antwerp;3.3;110.0;14.0;13.0;1.79;10000.0;2026-05-18 11:36:25.703127210;{'Day': 10, 'Hour': 14, 'Minute': 42, 'Month': 5}
+NOWOWIEJSKI         ;636023137;Hamburg;Antwerp;7.0;190.0;28.0;13.0;1.79;10000.0;2026-05-18 11:36:28.947607152;{'Day': 8, 'Hour': 23, 'Minute': 0, 'Month': 5}
+ENSEMBLE            ;563036700;Rotterdam;Antwerp;7.6;179.0;28.0;13.0;1.79;10000.0;2026-05-18 11:36:31.638949114;{'Day': 16, 'Hour': 0, 'Minute': 1, 'Month': 5}
+PLUTO;218006040;Antwerp;Rotterdam;2.0;85.0;10.0;18.0;4.22;10000.0;2026-05-18 11:36:32.036344620;{'Day': 25, 'Hour': 18, 'Minute': 35, 'Month': 5}
+EVER FAITH          ;355623000;Antwerp;Rotterdam;13.8;334.0;48.0;18.0;4.22;10000.0;2026-05-18 11:37:03.972824607;{'Day': 12, 'Hour': 15, 'Minute': 0, 'Month': 6}
+MELLIZO;244630034;Antwerp;Rotterdam;1.5;190.0;24.0;18.0;4.22;10000.0;2026-05-18 11:37:04.957390611;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+TORM EMILIE         ;219490000;New;Antwerp;8.0;228.0;32.0;13.0;1.79;10000.0;2026-05-18 11:37:07.897626509;{'Day': 20, 'Hour': 10, 'Minute': 0, 'Month': 5}
+ADRIANA      ;244750594;Antwerp;Rotterdam;0.1;85.0;8.0;18.0;4.22;10000.0;2026-05-18 11:37:08.536702817;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+SOMTRANS XI;205085300;Rotterdam;Antwerp;0.1;135.0;15.0;13.0;1.79;10000.0;2026-05-18 11:37:13.184958140;{'Day': 8, 'Hour': 22, 'Minute': 27, 'Month': 5}
+VISION;244700940;Rotterdam;Antwerp;2.3;110.0;23.0;13.0;1.79;10000.0;2026-05-18 11:37:25.820807179;{'Day': 22, 'Hour': 3, 'Minute': 5, 'Month': 5}
+DA VINCI;244650838;Antwerp;Rotterdam;2.8;110.0;12.0;18.0;4.22;10000.0;2026-05-18 11:37:31.260890733;{'Day': 16, 'Hour': 16, 'Minute': 0, 'Month': 5}
+TANJA DEYMANN I;211514430;Rotterdam;Hamburg;2.8;166.0;11.0;11.0;5.14;10000.0;2026-05-18 11:37:32.660964867;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+ALEXANDER B         ;305654000;Bremerhaven;Hamburg;9.0;155.0;25.0;11.0;5.14;10000.0;2026-05-18 11:37:39.700282658;{'Day': 27, 'Hour': 21, 'Minute': 0, 'Month': 5}
+ALIE-JAN;244013718;Rotterdam;Antwerp;0.2;86.0;10.0;13.0;1.79;10000.0;2026-05-18 11:37:41.027878150;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+TABIGHA;205383790;Antwerp;Rotterdam;2.0;80.0;10.0;18.0;4.22;10000.0;2026-05-18 11:37:44.818337163;{'Day': 1, 'Hour': 6, 'Minute': 41, 'Month': 5}
+COVANO;244660491;Rotterdam;Antwerp;2.0;135.0;17.0;13.0;1.79;10000.0;2026-05-18 11:37:48.905382194;{'Day': 3, 'Hour': 17, 'Minute': 0, 'Month': 5}
+AMISTADE            ;244700827;Antwerp;Rotterdam;0.0;86.0;10.0;18.0;4.22;10000.0;2026-05-18 11:37:51.887411471;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+DUANCIS             ;244650489;Rotterdam;Antwerp;1.7;135.0;15.0;13.0;1.79;10000.0;2026-05-18 11:38:02.510044115;{'Day': 9, 'Hour': 4, 'Minute': 0, 'Month': 5}
+STRAUSS;205575390;Rotterdam;Antwerp;2.5;110.0;14.0;13.0;1.79;10000.0;2026-05-18 11:38:09.345824655;{'Day': 23, 'Hour': 13, 'Minute': 29, 'Month': 5}
+NORDULTRA           ;255806487;Bremerhaven;Antwerp;10.4;199.0;32.0;13.0;1.79;10000.0;2026-05-18 11:38:11.025582968;{'Day': 27, 'Hour': 16, 'Minute': 0, 'Month': 5}
+BELLA               ;246994000;Le;Felixstowe;2.2;33.0;13.0;0.0;2.24;10000.0;2026-05-18 11:38:23.041102459;{'Day': 12, 'Hour': 5, 'Minute': 0, 'Month': 5}
+SOMTRANS XXX;244750947;Antwerp;Rotterdam;4.0;135.0;15.0;18.0;4.22;10000.0;2026-05-18 11:38:23.280838356;{'Day': 27, 'Hour': 4, 'Minute': 22, 'Month': 5}
+DEJA;269057091;Rotterdam;Antwerp;0.0;125.0;12.0;13.0;1.79;10000.0;2026-05-18 11:38:24.389322230;{'Day': 8, 'Hour': 13, 'Minute': 23, 'Month': 5}
+OTD ALPHA           ;244670734;Rotterdam;Antwerp;1.3;110.0;12.0;13.0;1.79;10000.0;2026-05-18 11:38:26.013056450;{'Day': 13, 'Hour': 4, 'Minute': 0, 'Month': 5}
+EVER MEGA           ;563229400;Antwerp;Rotterdam;14.7;366.0;51.0;18.0;4.22;10000.0;2026-05-18 11:38:31.932180583;{'Day': 1, 'Hour': 20, 'Minute': 0, 'Month': 6}
+NIRVANA;205561690;Antwerp;Rotterdam;2.5;135.0;12.0;18.0;4.22;10000.0;2026-05-18 11:38:35.200093270;{'Day': 28, 'Hour': 5, 'Minute': 0, 'Month': 5}
+LEFKAS              ;212874000;Rotterdam;Le;5.0;102.0;18.0;3.0;;;2026-05-18 11:38:42.010726832;{'Day': 20, 'Hour': 10, 'Minute': 30, 'Month': 5}
+PHORCYS;205406790;Rotterdam;Antwerp;2.1;125.0;12.0;13.0;1.79;10000.0;2026-05-18 11:38:44.946363546;{'Day': 12, 'Hour': 8, 'Minute': 15, 'Month': 5}
+CALYPSO;305691000;Hamburg;Antwerp;6.5;133.0;23.0;13.0;1.79;10000.0;2026-05-18 11:38:47.623119464;{'Day': 12, 'Hour': 12, 'Minute': 0, 'Month': 5}
+FINJA               ;211333700;Rotterdam;Bremerhaven;3.2;68.0;12.0;1.0;7.09;6188.0;2026-05-18 11:38:54.898572282;{'Day': 27, 'Hour': 19, 'Minute': 0, 'Month': 5}
+SYNERGY;205217290;Rotterdam;Antwerp;2.5;110.0;14.0;13.0;1.79;10000.0;2026-05-18 11:39:00.586024315;{'Day': 24, 'Hour': 11, 'Minute': 55, 'Month': 5}
+STOLT WAAL;244660649;Antwerp;Rotterdam;1.4;86.0;12.0;18.0;4.22;10000.0;2026-05-18 11:39:26.074600742;{'Day': 23, 'Hour': 23, 'Minute': 23, 'Month': 5}
+BRIGHT SAKURA       ;352003112;Hong;Singapore;10.7;185.0;35.0;186.0;4.12;10000.0;2026-05-18 11:39:58.117080728;{'Day': 26, 'Hour': 6, 'Minute': 0, 'Month': 5}
+COSCO ANTWERP       ;235068025;Piraeus;Rotterdam;11.6;280.0;39.0;18.0;4.22;10000.0;2026-05-18 11:39:59.858572163;{'Day': 19, 'Hour': 21, 'Minute': 0, 'Month': 5}
+CHEM ABBEY          ;636023095;Hamburg;Antwerp;6.6;185.0;28.0;13.0;1.79;10000.0;2026-05-18 11:40:12.965872129;{'Day': 8, 'Hour': 8, 'Minute': 0, 'Month': 5}
+ENSEMBLE            ;244032418;Rotterdam;Antwerp;1.0;135.0;12.0;13.0;1.79;10000.0;2026-05-18 11:40:16.480446783;{'Day': 5, 'Hour': 1, 'Minute': 58, 'Month': 5}
+SKALAR;255806476;Antwerp;Hamburg;6.8;151.0;24.0;12.0;5.14;10000.0;2026-05-18 11:46:23.406819699;{'Day': 20, 'Hour': 5, 'Minute': 0, 'Month': 5}
+GAS NOBLE           ;538011272;Antwerp;Rotterdam;4.5;100.0;17.0;23.0;4.22;10000.0;2026-05-18 11:46:27.680671368;{'Day': 24, 'Hour': 23, 'Minute': 0, 'Month': 5}
+MARBURG             ;305978000;Hamburg;Bremerhaven;8.1;158.0;23.0;1.0;7.09;6188.0;2026-05-18 11:46:29.530195724;{'Day': 19, 'Hour': 4, 'Minute': 0, 'Month': 5}
+ANTEROS;244670775;Antwerp;Rotterdam;0.0;80.0;9.0;23.0;4.22;10000.0;2026-05-18 11:46:32.802389415;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+SAMENZA;244001028;Antwerp;Rotterdam;0.0;135.0;12.0;23.0;4.22;10000.0;2026-05-18 11:46:46.017223031;{'Day': 14, 'Hour': 13, 'Minute': 48, 'Month': 5}
+ONE ALTAIR          ;431710000;Rotterdam;Le;12.5;333.0;46.0;4.0;;;2026-05-18 11:46:54.773299261;{'Day': 20, 'Hour': 10, 'Minute': 0, 'Month': 6}
+VIKSTRAUM           ;257084120;Rotterdam;Antwerp;6.8;129.0;20.0;11.0;1.79;10000.0;2026-05-18 11:46:58.667841772;{'Day': 25, 'Hour': 0, 'Minute': 1, 'Month': 5}
+EVER ALP            ;352898717;Rotterdam;Hamburg;11.5;400.0;62.0;12.0;5.14;10000.0;2026-05-18 11:47:06.179104474;{'Day': 17, 'Hour': 8, 'Minute': 0, 'Month': 5}
+BRAHMS              ;209577000;Le;Rotterdam;4.8;99.0;14.0;23.0;4.22;10000.0;2026-05-18 11:47:22.850618868;{'Day': 10, 'Hour': 23, 'Minute': 0, 'Month': 5}
+BOW ARCHITECT       ;257162000;Rotterdam;Antwerp;7.0;170.0;26.0;11.0;1.79;10000.0;2026-05-18 11:47:51.294849460;{'Day': 11, 'Hour': 12, 'Minute': 30, 'Month': 5}
+SOMTRANS X;205369090;Rotterdam;Antwerp;0.1;135.0;15.0;11.0;1.79;10000.0;2026-05-18 11:49:09.003028028;{'Day': 3, 'Hour': 1, 'Minute': 0, 'Month': 11}
+BRILJANT;205555890;Rotterdam;Antwerp;1.9;135.0;23.0;11.0;1.79;10000.0;2026-05-18 11:49:23.306276982;{'Day': 29, 'Hour': 8, 'Minute': 0, 'Month': 4}
+HMM OCEAN           ;636024294;Piraeus;Genoa;11.3;272.0;43.0;0.0;2.06;8000.0;2026-05-18 11:49:31.287112232;{'Day': 21, 'Hour': 2, 'Minute': 0, 'Month': 5}
+VENETIE;244730148;Rotterdam;Antwerp;4.0;110.0;12.0;11.0;1.79;10000.0;2026-05-18 11:49:52.734299298;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+ISABELLE;269057153;Rotterdam;Antwerp;1.7;135.0;22.0;11.0;1.79;10000.0;2026-05-18 11:49:54.045842076;{'Day': 9, 'Hour': 15, 'Minute': 0, 'Month': 5}
+MERWEDE;244090473;Rotterdam;Antwerp;3.7;135.0;18.0;11.0;1.79;10000.0;2026-05-18 11:49:57.775343291;{'Day': 25, 'Hour': 17, 'Minute': 59, 'Month': 5}
+KIEL EXPRESS;636093170;Antwerp;Rotterdam;12.6;321.0;42.0;23.0;4.22;10000.0;2026-05-18 11:57:00.383389554;{'Day': 4, 'Hour': 19, 'Minute': 0, 'Month': 6}
+BERYL;244830541;Rotterdam;Antwerp;3.0;86.0;15.0;11.0;1.79;10000.0;2026-05-18 11:58:34.038138799;{'Day': 24, 'Hour': 21, 'Minute': 57, 'Month': 5}
+AMARO;244700115;Rotterdam;Antwerp;2.3;85.0;10.0;11.0;1.79;10000.0;2026-05-18 12:01:58.313650755;{'Day': 2, 'Hour': 18, 'Minute': 59, 'Month': 5}
+SLOMAN HEBE         ;305265000;Rotterdam;Antwerp;9.0;145.0;23.0;11.0;1.79;10000.0;2026-05-18 12:02:56.531679055;{'Day': 7, 'Hour': 6, 'Minute': 0, 'Month': 5}
+HAPPY PENGUIN       ;235095979;Antwerp;Hamburg;6.3;113.0;20.0;12.0;5.14;10000.0;2026-05-18 12:03:26.204153938;{'Day': 21, 'Hour': 21, 'Minute': 0, 'Month': 5}
+DESA;211513250;Antwerp;Rotterdam;0.1;86.0;12.0;23.0;4.22;10000.0;2026-05-18 12:08:04.680509922;{'Day': 24, 'Hour': 18, 'Minute': 18, 'Month': 5}
+TRESOR              ;205562790;Rotterdam;Antwerp;2.8;110.0;11.0;11.0;1.79;10000.0;2026-05-18 12:08:38.772198176;{'Day': 8, 'Hour': 15, 'Minute': 14, 'Month': 5}
+VLAKE;244660638;Antwerp;Rotterdam;1.0;110.0;14.0;23.0;4.22;10000.0;2026-05-18 12:09:36.772810857;{'Day': 24, 'Hour': 15, 'Minute': 0, 'Month': 5}
+CMA CGM LOUGA;248655000;Le;Savannah;10.1;195.0;32.0;1.0;1.99;10000.0;2026-05-18 12:33:44.566693055;{'Day': 5, 'Hour': 5, 'Minute': 30, 'Month': 4}
+PANAMAX;244620933;Antwerp;Rotterdam;0.0;110.0;14.0;6.0;4.22;10000.0;2026-05-18 12:37:00.641120372;{'Day': 27, 'Hour': 9, 'Minute': 55, 'Month': 5}
+TORMENTA            ;244615682;Rotterdam;Antwerp;1.0;135.0;12.0;6.0;1.79;10000.0;2026-05-18 12:39:05.556050939;{'Day': 25, 'Hour': 10, 'Minute': 0, 'Month': 5}
+NAVIRA;205369890;Antwerp;Rotterdam;3.3;135.0;17.0;6.0;4.22;10000.0;2026-05-18 12:40:42.527651902;{'Day': 26, 'Hour': 15, 'Minute': 55, 'Month': 5}
+GAS 84;211493570;Antwerp;Rotterdam;0.0;110.0;12.0;6.0;4.22;10000.0;2026-05-18 12:41:09.640413375;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+NOA;244859480;Antwerp;Rotterdam;1.0;110.0;12.0;6.0;4.22;10000.0;2026-05-18 12:41:17.504095413;{'Day': 20, 'Hour': 5, 'Minute': 56, 'Month': 5}
+DIFF;244770013;Antwerp;Rotterdam;2.4;86.0;11.0;6.0;4.22;10000.0;2026-05-18 12:41:21.137549482;{'Day': 28, 'Hour': 14, 'Minute': 0, 'Month': 5}
+HELGA DEYMANN ;211519100;Antwerp;Rotterdam;0.2;110.0;12.0;40.0;4.22;10000.0;2026-05-18 12:46:43.961038185;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+EVER VIBE           ;563304600;Singapore;Hong;9.2;210.0;35.0;7.0;;;2026-05-18 12:49:24.443064859;{'Day': 5, 'Hour': 7, 'Minute': 0, 'Month': 5}
+KENTERING;244660186;Antwerp;Rotterdam;0.0;81.0;11.0;40.0;4.22;10000.0;2026-05-18 12:51:49.069878505;{'Day': 27, 'Hour': 0, 'Minute': 0, 'Month': 5}
+COMMANDER;244620841;Rotterdam;Antwerp;1.6;135.0;15.0;16.0;1.79;10000.0;2026-05-18 12:55:35.065675848;{'Day': 11, 'Hour': 12, 'Minute': 58, 'Month': 5}
+SOMTRANS XXVI;244710230;Antwerp;Rotterdam;4.3;135.0;18.0;40.0;4.22;10000.0;2026-05-18 13:01:11.754007808;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+NILEDUTCH LION      ;636013690;New;Savannah;12.2;333.0;42.0;5.0;1.99;10000.0;2026-05-18 13:24:58.808213659;{'Day': 18, 'Hour': 23, 'Minute': 59, 'Month': 5}
+STEN POSEIDON       ;255953000;Le;Rotterdam;7.1;144.0;23.0;35.0;4.22;10000.0;2026-05-18 13:26:10.517986342;{'Day': 27, 'Hour': 23, 'Minute': 0, 'Month': 4}
+SOVEREIGN;244170263;Antwerp;Rotterdam;0.4;135.0;14.0;35.0;4.22;10000.0;2026-05-18 13:33:33.344245672;{'Day': 26, 'Hour': 20, 'Minute': 54, 'Month': 5}
+BOB ROSS;244001754;Antwerp;Rotterdam;3.8;135.0;18.0;35.0;4.22;10000.0;2026-05-18 13:36:41.865106617;{'Day': 27, 'Hour': 0, 'Minute': 6, 'Month': 5}
+HOUSTON;244630814;Antwerp;Rotterdam;3.0;110.0;14.0;35.0;4.22;10000.0;2026-05-18 13:44:05.565481893;{'Day': 27, 'Hour': 18, 'Minute': 19, 'Month': 5}
+FABIAN DEYMANN;218050010;Antwerp;Bremerhaven;0.3;85.0;10.0;5.0;7.09;6188.0;2026-05-18 13:48:18.503012806;{'Day': 2, 'Hour': 12, 'Minute': 0, 'Month': 4}
+NAVIOS LAPIS        ;538003651;Hong;Singapore;12.2;261.0;32.0;252.0;4.12;10000.0;2026-05-18 13:58:05.711161537;{'Day': 3, 'Hour': 10, 'Minute': 0, 'Month': 6}
+WAN HAI 365;563190100;Hong;Busan;8.8;203.0;35.0;6.0;2.06;10000.0;2026-05-18 14:00:40.651108939;{'Day': 18, 'Hour': 2, 'Minute': 0, 'Month': 5}
+TWISTER;245881000;Antwerp;Rotterdam;2.4;100.0;14.0;38.0;4.22;10000.0;2026-05-18 14:02:56.545317608;{'Day': 27, 'Hour': 10, 'Minute': 0, 'Month': 5}
+SAWASDEE SUNRISE    ;440251000;Hong;Busan;10.0;172.0;27.0;6.0;2.06;10000.0;2026-05-18 14:09:09.486145769;{'Day': 25, 'Hour': 23, 'Minute': 0, 'Month': 5}
+KARA;244670312;Antwerp;Rotterdam;2.0;110.0;12.0;25.0;4.22;10000.0;2026-05-18 14:18:59.264093206;{'Day': 22, 'Hour': 11, 'Minute': 25, 'Month': 5}
+;563249900;Singapore;Hong;;;;11.0;;;2026-05-18 14:24:21.788808972;
+SAINTE-MAXIME;205580590;Rotterdam;Antwerp;3.4;135.0;23.0;21.0;1.79;10000.0;2026-05-18 15:28:11.585254090;{'Day': 28, 'Hour': 21, 'Minute': 0, 'Month': 5}
+COMUS 2;269057617;Antwerp;Rotterdam;0.0;110.0;14.0;27.0;4.22;10000.0;2026-05-18 15:32:17.752673207;{'Day': 26, 'Hour': 13, 'Minute': 2, 'Month': 5}
+SABA;244750303;Antwerp;Rotterdam;2.5;86.0;10.0;27.0;4.22;10000.0;2026-05-18 15:44:14.835751501;{'Day': 16, 'Hour': 18, 'Minute': 0, 'Month': 5}
+AQUILON;205404390;Antwerp;Rotterdam;1.8;110.0;12.0;27.0;4.22;10000.0;2026-05-18 16:44:17.787248418;{'Day': 14, 'Hour': 8, 'Minute': 56, 'Month': 5}
+ARKLOW BAY;244700336;Bremerhaven;Hamburg;7.2;119.0;15.0;8.0;5.14;10000.0;2026-05-18 17:13:50.099961924;{'Day': 20, 'Hour': 23, 'Minute': 0, 'Month': 5}
+SYNTHESE 16;244690311;Antwerp;Rotterdam;0.0;88.0;10.0;20.0;4.22;10000.0;2026-05-18 19:01:26.129285800;{'Day': 7, 'Hour': 17, 'Minute': 0, 'Month': 9}
+ONE SAPPHIRE        ;563262300;Hong;Busan;12.9;336.0;51.0;3.0;2.06;10000.0;2026-05-18 19:24:06.766230202;{'Day': 5, 'Hour': 8, 'Minute': 0, 'Month': 5}
+KMTC CHENNAI        ;440838000;Hong;Busan;12.4;261.0;32.0;11.0;2.06;10000.0;2026-05-18 19:48:14.152767717;{'Day': 30, 'Hour': 2, 'Minute': 0, 'Month': 5}
+MAERSK YUKON        ;563090200;Hong;Busan;12.8;349.0;46.0;11.0;2.06;10000.0;2026-05-18 19:50:05.769116610;{'Day': 7, 'Hour': 7, 'Minute': 0, 'Month': 5}
+WATERWAY;376532000;Antwerp;Felixstowe;3.3;81.0;10.0;0.0;2.24;10000.0;2026-05-18 19:50:12.452669116;{'Day': 11, 'Hour': 23, 'Minute': 30, 'Month': 5}
+ANASTACIA;244033335;Rotterdam;Antwerp;2.7;134.0;12.0;13.0;1.79;10000.0;2026-05-18 19:52:06.550383748;{'Day': 24, 'Hour': 17, 'Minute': 21, 'Month': 5}
+CHARLOIS;244700820;Rotterdam;Antwerp;1.5;135.0;12.0;13.0;1.79;10000.0;2026-05-18 19:58:33.520771447;{'Day': 25, 'Hour': 11, 'Minute': 0, 'Month': 4}
+MSC TIANPING        ;636020495;Singapore;Busan;10.4;334.0;42.0;11.0;2.06;10000.0;2026-05-18 19:59:39.499875676;{'Day': 8, 'Hour': 4, 'Minute': 45, 'Month': 5}
+NYK ISABEL          ;564938000;Singapore;Busan;11.2;210.0;30.0;30.0;2.06;10000.0;2026-05-18 20:42:09.359516646;{'Day': 5, 'Hour': 8, 'Minute': 30, 'Month': 5}
+ONE IBIS            ;374815000;Singapore;Busan;11.3;364.0;51.0;30.0;2.06;10000.0;2026-05-18 20:43:26.238213092;{'Day': 6, 'Hour': 1, 'Minute': 0, 'Month': 5}
+MULSANNE;205508590;Rotterdam;Antwerp;0.0;110.0;15.0;13.0;1.79;10000.0;2026-05-18 20:59:48.648513035;{'Day': 11, 'Hour': 18, 'Minute': 47, 'Month': 5}
+BENTAYGA;205562190;Rotterdam;Antwerp;3.8;135.0;12.0;10.0;1.79;10000.0;2026-05-18 22:04:29.562389647;{'Day': 21, 'Hour': 4, 'Minute': 11, 'Month': 4}
+WILLEM SR.;244660725;Antwerp;Rotterdam;3.7;110.0;12.0;23.0;4.22;10000.0;2026-05-19 02:04:22.333694947;{'Day': 26, 'Hour': 18, 'Minute': 40, 'Month': 5}
+CARPE AURORAM;244255063;Antwerp;Rotterdam;0.0;135.0;18.0;16.0;4.22;10000.0;2026-05-19 05:32:47.498979857;{'Day': 28, 'Hour': 9, 'Minute': 36, 'Month': 5}
+ARKLOW BAY;244700336;Bremerhaven;Hamburg;7.2;119.0;15.0;6.0;5.14;10000.0;2026-05-19 06:26:57.003953265;{'Day': 20, 'Hour': 23, 'Minute': 0, 'Month': 5}
+;563758000;Singapore;Busan;;;;13.0;2.06;10000.0;2026-05-19 09:31:33.942978439;
+TABIGHA;205383790;Rotterdam;Antwerp;2.0;80.0;10.0;10.0;1.79;10000.0;2026-05-19 09:33:04.730459861;{'Day': 1, 'Hour': 6, 'Minute': 41, 'Month': 5}
+BERTUS;244129905;Antwerp;Rotterdam;2.7;22.0;6.0;8.0;4.22;10000.0;2026-05-19 10:10:30.271230345;{'Day': 22, 'Hour': 11, 'Minute': 9, 'Month': 2}
+TRANQUILO;244070504;Antwerp;Rotterdam;1.9;110.0;14.0;9.0;4.22;10000.0;2026-05-19 18:15:09.613759937;{'Day': 8, 'Hour': 6, 'Minute': 36, 'Month': 5}
+CGAS PANTHER;249362000;Rotterdam;Antwerp;5.5;100.0;18.0;19.0;1.79;10000.0;2026-05-19 21:40:57.866371435;{'Day': 18, 'Hour': 19, 'Minute': 30, 'Month': 5}
+CGAS PANTHER;249362000;Antwerp;Rotterdam;5.5;100.0;18.0;14.0;4.22;10000.0;2026-05-19 22:20:35.576213474;{'Day': 18, 'Hour': 19, 'Minute': 30, 'Month': 5}
+MEDUSA 2;246976000;Rotterdam;Antwerp;2.0;60.0;14.0;10.0;1.79;10000.0;2026-05-20 07:50:16.564012286;{'Day': 17, 'Hour': 14, 'Minute': 0, 'Month': 12}
+PIZ DOLF;244093294;Rotterdam;Antwerp;3.0;110.0;12.0;4.0;1.79;10000.0;2026-05-22 05:46:48.868158383;{'Day': 5, 'Hour': 0, 'Minute': 21, 'Month': 5}
+UNI HORIZON         ;538011832;Los;Vancouver;8.0;180.0;30.0;25.0;0.89;10000.0;2026-05-22 05:46:49.961737241;{'Day': 29, 'Hour': 17, 'Minute': 0, 'Month': 4}
+MIAMI;269057010;Antwerp;Rotterdam;3.4;110.0;12.0;10.0;4.22;10000.0;2026-05-22 05:46:51.427004575;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+FRI KARMSUND        ;210852000;Antwerp;Rotterdam;5.5;90.0;14.0;10.0;4.22;10000.0;2026-05-22 05:46:52.556995426;{'Day': 30, 'Hour': 20, 'Minute': 0, 'Month': 5}
+ONE MADRID          ;431981000;New;Savannah;12.7;366.0;51.0;0.0;1.99;10000.0;2026-05-22 05:46:52.755994785;{'Day': 21, 'Hour': 13, 'Minute': 0, 'Month': 5}
+JANNA-MARIA 3;244730977;Antwerp;Rotterdam;0.4;135.0;12.0;10.0;4.22;10000.0;2026-05-22 05:47:00.754238617;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+MAERSK MEMPHIS;563073700;Savannah;Genoa;12.6;299.0;40.0;0.0;2.06;8000.0;2026-05-22 05:47:02.817122350;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+TOENDRA;244371109;Rotterdam;Antwerp;3.7;110.0;12.0;4.0;1.79;10000.0;2026-05-22 05:47:03.198596975;{'Day': 30, 'Hour': 21, 'Minute': 9, 'Month': 4}
+BEATE;218816000;Hamburg;Bremerhaven;8.5;135.0;23.0;4.0;7.09;6188.0;2026-05-22 05:47:03.664424178;{'Day': 28, 'Hour': 4, 'Minute': 0, 'Month': 5}
+NAVA GANDA;205591490;Rotterdam;Antwerp;0.0;86.0;10.0;4.0;1.79;10000.0;2026-05-22 05:47:05.564689230;{'Day': 14, 'Hour': 9, 'Minute': 18, 'Month': 5}
+WILSON SAAR;311001826;Rotterdam;Bremerhaven;3.4;74.0;10.0;4.0;7.09;6188.0;2026-05-22 05:47:07.265120938;{'Day': 6, 'Hour': 19, 'Minute': 0, 'Month': 5}
+VENETIA;255805657;Antwerp;Le;10.6;269.0;33.0;0.0;;;2026-05-22 05:47:09.287336541;{'Day': 25, 'Hour': 7, 'Minute': 0, 'Month': 5}
+ELISALEX SCHULTE    ;563052000;Antwerp;Rotterdam;6.2;145.0;23.0;10.0;4.22;10000.0;2026-05-22 05:47:09.336430511;{'Day': 23, 'Hour': 1, 'Minute': 0, 'Month': 5}
+ASOPUS;244750081;Rotterdam;Antwerp;1.7;110.0;12.0;4.0;1.79;10000.0;2026-05-22 05:47:10.770568481;{'Day': 22, 'Hour': 16, 'Minute': 17, 'Month': 5}
+BANGKOK EXPRESS     ;211108330;Hamburg;Antwerp;10.7;400.0;61.0;4.0;1.79;10000.0;2026-05-22 05:47:11.093712064;{'Day': 22, 'Hour': 10, 'Minute': 0, 'Month': 5}
+TRIPOLI             ;205278390;Antwerp;Rotterdam;3.1;135.0;18.0;10.0;4.22;10000.0;2026-05-22 05:49:16.156567298;{'Day': 28, 'Hour': 0, 'Minute': 20, 'Month': 5}
+MAYVIEW MAERSK;219578000;Hamburg;Bremerhaven;12.3;399.0;60.0;4.0;7.09;6188.0;2026-05-22 05:49:16.782688990;{'Day': 25, 'Hour': 1, 'Minute': 0, 'Month': 5}
+ENCLAVE;205205612;Antwerp;Rotterdam;2.2;85.0;11.0;10.0;4.22;10000.0;2026-05-22 05:49:17.825530126;{'Day': 21, 'Hour': 11, 'Minute': 57, 'Month': 5}
+JEBRITT;244700116;Antwerp;Rotterdam;2.4;81.0;10.0;10.0;4.22;10000.0;2026-05-22 05:49:17.957181201;{'Day': 23, 'Hour': 7, 'Minute': 28, 'Month': 5}
+IDUNA;244670789;Rotterdam;Antwerp;3.0;135.0;15.0;4.0;1.79;10000.0;2026-05-22 05:49:18.358686564;{'Day': 22, 'Hour': 11, 'Minute': 9, 'Month': 10}
+DURANDE             ;228480800;Le;Antwerp;7.6;172.0;27.0;4.0;1.79;10000.0;2026-05-22 05:49:19.220969634;{'Day': 25, 'Hour': 20, 'Minute': 0, 'Month': 5}
+VALENCIA;244020144;Antwerp;Rotterdam;4.0;110.0;14.0;10.0;4.22;10000.0;2026-05-22 05:49:22.631222472;{'Day': 28, 'Hour': 9, 'Minute': 0, 'Month': 5}
+MSC COTONOU VIII    ;636024194;Le;Felixstowe;9.6;272.0;43.0;0.0;2.24;10000.0;2026-05-22 05:49:22.841442208;{'Day': 20, 'Hour': 11, 'Minute': 0, 'Month': 5}
+MAERSK IZMIR        ;566780000;Rotterdam;Bremerhaven;9.6;233.0;33.0;4.0;7.09;6188.0;2026-05-22 05:49:23.828424175;{'Day': 20, 'Hour': 5, 'Minute': 0, 'Month': 5}
+ODYSSEE;205222790;Rotterdam;Antwerp;2.0;110.0;12.0;4.0;1.79;10000.0;2026-05-22 05:49:29.588709715;{'Day': 18, 'Hour': 1, 'Minute': 36, 'Month': 5}
+KRISLIN             ;305458000;Rotterdam;Antwerp;4.4;100.0;15.0;4.0;1.79;10000.0;2026-05-22 05:49:29.952160555;{'Day': 2, 'Hour': 16, 'Minute': 0, 'Month': 5}
+PONEM;305534000;Rotterdam;Hamburg;5.3;90.0;14.0;12.0;5.14;10000.0;2026-05-22 05:49:30.391126495;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+GROENENDAAL;244029535;Antwerp;Rotterdam;4.0;135.0;18.0;10.0;4.22;10000.0;2026-05-22 05:49:35.300361427;{'Day': 16, 'Hour': 2, 'Minute': 19, 'Month': 12}
+DETTMER TANK 132;211811850;Antwerp;Hamburg;1.1;86.0;10.0;12.0;5.14;10000.0;2026-05-22 05:49:35.454573463;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+SINGAPORE EXPRESS   ;211122000;Rotterdam;Hamburg;10.5;400.0;61.0;12.0;5.14;10000.0;2026-05-22 05:49:35.886297251;{'Day': 29, 'Hour': 6, 'Minute': 0, 'Month': 5}
+SC HOUSTON;538009416;Hamburg;Rotterdam;8.2;212.0;32.0;10.0;4.22;10000.0;2026-05-22 06:01:54.259786508;{'Day': 8, 'Hour': 12, 'Minute': 0, 'Month': 5}
+CMA CGM TIGA;249400000;Rotterdam;Hamburg;13.1;255.0;40.0;12.0;5.14;10000.0;2026-05-22 06:01:59.086065155;{'Day': 2, 'Hour': 21, 'Minute': 0, 'Month': 6}
+NERODIA;244700794;Antwerp;Rotterdam;1.8;135.0;12.0;10.0;4.22;10000.0;2026-05-22 06:02:00.860500961;{'Day': 24, 'Hour': 11, 'Minute': 25, 'Month': 5}
+VIKSTRAUM           ;257084120;Antwerp;Rotterdam;6.8;129.0;20.0;10.0;4.22;10000.0;2026-05-22 06:02:05.193593446;{'Day': 25, 'Hour': 0, 'Minute': 1, 'Month': 5}
+ENERGY STOCKHOLM;205564590;Antwerp;Rotterdam;3.3;135.0;24.0;10.0;4.22;10000.0;2026-05-22 06:02:12.068394595;{'Day': 23, 'Hour': 19, 'Minute': 2, 'Month': 5}
+KIEL EXPRESS;636093170;Rotterdam;Hamburg;12.6;321.0;42.0;12.0;5.14;10000.0;2026-05-22 06:02:12.953801755;{'Day': 4, 'Hour': 19, 'Minute': 0, 'Month': 6}
+PLUTO;253242373;Antwerp;Rotterdam;0.3;86.0;11.0;10.0;4.22;10000.0;2026-05-22 06:02:15.185884003;{'Day': 24, 'Hour': 6, 'Minute': 32, 'Month': 5}
+ELBWIND;210017000;Bremerhaven;Hamburg;6.7;151.0;23.0;12.0;5.14;10000.0;2026-05-22 06:02:17.428140975;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+SEZANE              ;244731329;Rotterdam;Antwerp;1.5;86.0;11.0;4.0;1.79;10000.0;2026-05-22 06:02:18.375359988;{'Day': 30, 'Hour': 13, 'Minute': 0, 'Month': 12}
+CARIBE MARIA        ;636017331;Antwerp;Hamburg;7.0;117.0;20.0;12.0;5.14;10000.0;2026-05-22 06:02:21.591376638;{'Day': 27, 'Hour': 20, 'Minute': 0, 'Month': 5}
+CONTERNO;244013087;Rotterdam;Antwerp;3.6;110.0;12.0;4.0;1.79;10000.0;2026-05-22 06:04:10.028753169;{'Day': 6, 'Hour': 21, 'Minute': 30, 'Month': 3}
+SCHLOSS HEIDELBERG  ;211541290;Rotterdam;Antwerp;1.0;110.0;12.0;4.0;1.79;10000.0;2026-05-22 06:04:11.416495643;{'Day': 27, 'Hour': 10, 'Minute': 0, 'Month': 5}
+SANDRA W.           ;244790016;Antwerp;Rotterdam;2.0;135.0;12.0;10.0;4.22;10000.0;2026-05-22 06:04:20.819363524;{'Day': 28, 'Hour': 10, 'Minute': 54, 'Month': 5}
+BALTIC SAIL;244067000;Rotterdam;Hamburg;2.8;88.0;13.0;12.0;5.14;10000.0;2026-05-22 06:04:32.363036459;{'Day': 19, 'Hour': 22, 'Minute': 0, 'Month': 5}
+TIDAN               ;231907000;Rotterdam;Antwerp;4.0;89.0;13.0;4.0;1.79;10000.0;2026-05-22 06:06:58.055847603;{'Day': 11, 'Hour': 7, 'Minute': 0, 'Month': 5}
+SALAR;304662000;Hamburg;Rotterdam;5.2;87.0;13.0;10.0;4.22;10000.0;2026-05-22 06:07:00.687787555;{'Day': 8, 'Hour': 7, 'Minute': 0, 'Month': 5}
+TUNADAL             ;636020533;Rotterdam;Hamburg;7.2;158.0;23.0;12.0;5.14;10000.0;2026-05-22 06:07:00.874603611;{'Day': 23, 'Hour': 9, 'Minute': 30, 'Month': 5}
+MSC MARIA PIA;354711000;Le;Felixstowe;11.2;196.0;33.0;0.0;2.24;10000.0;2026-05-22 06:07:02.000734486;{'Day': 28, 'Hour': 3, 'Minute': 30, 'Month': 5}
+DF MONTMARTRE       ;636021310;Le;Rotterdam;8.5;250.0;44.0;10.0;4.22;10000.0;2026-05-22 06:07:02.632375697;{'Day': 8, 'Hour': 12, 'Minute': 0, 'Month': 5}
+FREDERIK            ;304374000;Bremerhaven;Hamburg;7.5;155.0;25.0;12.0;5.14;10000.0;2026-05-22 06:07:03.990103217;{'Day': 25, 'Hour': 8, 'Minute': 0, 'Month': 5}
+TS MUNDRA           ;538010740;Hong;Melbourne;9.3;186.0;35.0;1.0;0.89;10000.0;2026-05-22 06:07:04.252088718;{'Day': 26, 'Hour': 6, 'Minute': 0, 'Month': 5}
+ROBIJN;244030318;Rotterdam;Antwerp;1.5;110.0;12.0;4.0;1.79;10000.0;2026-05-22 06:07:08.839513743;{'Day': 9, 'Hour': 23, 'Minute': 15, 'Month': 4}
+CIRCLE;244710135;Rotterdam;Antwerp;3.5;190.0;12.0;4.0;1.79;10000.0;2026-05-22 06:10:11.660915253;{'Day': 21, 'Hour': 4, 'Minute': 26, 'Month': 5}
+MARGIT  ;270373000;Hamburg;Rotterdam;2.4;80.0;9.0;10.0;4.22;10000.0;2026-05-22 06:10:13.502527293;{'Day': 10, 'Hour': 13, 'Minute': 38, 'Month': 5}
+SUNDOWNER           ;244830182;Rotterdam;Antwerp;4.6;87.0;15.0;4.0;1.79;10000.0;2026-05-22 06:10:16.743672968;{'Day': 19, 'Hour': 12, 'Minute': 0, 'Month': 5}
+PERSEUS;205509590;Rotterdam;Antwerp;2.8;110.0;13.0;4.0;1.79;10000.0;2026-05-22 06:13:21.091633687;{'Day': 8, 'Hour': 13, 'Minute': 12, 'Month': 5}
+MIDWAY              ;244650593;Antwerp;Rotterdam;2.6;110.0;14.0;10.0;4.22;10000.0;2026-05-22 06:13:38.863953404;{'Day': 20, 'Hour': 5, 'Minute': 34, 'Month': 5}
+SKY EAGLE           ;255915885;Rotterdam;Antwerp;3.5;89.0;12.0;4.0;1.79;10000.0;2026-05-22 06:13:41.186868795;{'Day': 28, 'Hour': 8, 'Minute': 0, 'Month': 5}
+GREVELINGEN;244710157;Rotterdam;Antwerp;1.6;110.0;14.0;4.0;1.79;10000.0;2026-05-22 06:13:42.110436876;{'Day': 27, 'Hour': 6, 'Minute': 49, 'Month': 5}
+PANORAMA;205564990;Rotterdam;Antwerp;0.0;125.0;12.0;11.0;1.79;10000.0;2026-05-22 06:16:33.059166744;{'Day': 19, 'Hour': 8, 'Minute': 45, 'Month': 5}
+CGAS PANTHER;249362000;Rotterdam;Antwerp;5.5;100.0;18.0;11.0;1.79;10000.0;2026-05-22 06:16:42.165429865;{'Day': 18, 'Hour': 19, 'Minute': 30, 'Month': 5}
+MSC TRIESTE         ;229622000;Rotterdam;Antwerp;13.3;365.0;49.0;11.0;1.79;10000.0;2026-05-22 06:16:43.438737458;{'Day': 22, 'Hour': 19, 'Minute': 15, 'Month': 5}
+MSC YOSHEEN;212357000;Antwerp;Le;7.9;184.0;25.0;4.0;;;2026-05-22 06:16:46.305224599;{'Day': 24, 'Hour': 6, 'Minute': 0, 'Month': 5}
+OMERTA;205391390;Antwerp;Rotterdam;1.0;135.0;12.0;16.0;4.22;10000.0;2026-05-22 06:16:47.117739308;{'Day': 23, 'Hour': 0, 'Minute': 34, 'Month': 5}
+RHOGAS              ;305793000;Rotterdam;Hamburg;6.5;113.0;19.0;12.0;5.14;10000.0;2026-05-22 06:16:48.675955141;{'Day': 23, 'Hour': 20, 'Minute': 30, 'Month': 5}
+DEO GRATIAS         ;244660309;Antwerp;Rotterdam;2.0;55.0;7.0;16.0;4.22;10000.0;2026-05-22 06:16:48.906050913;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+LISA;211785210;Antwerp;Rotterdam;1.3;86.0;11.0;16.0;4.22;10000.0;2026-05-22 06:16:48.908968593;{'Day': 21, 'Hour': 18, 'Minute': 53, 'Month': 5}
+HYUNDAI HONGKONG    ;212348000;Busan;Singapore;14.0;304.0;40.0;161.0;4.12;10000.0;2026-05-22 06:19:12.473884009;{'Day': 22, 'Hour': 3, 'Minute': 15, 'Month': 5}
+MANU FORTI;244670140;Antwerp;Rotterdam;0.0;85.0;10.0;16.0;4.22;10000.0;2026-05-22 06:19:13.519347336;{'Day': 24, 'Hour': 9, 'Minute': 0, 'Month': 5}
+MAERSK SELETAR;369309000;New;Savannah;12.7;319.0;40.0;0.0;1.99;10000.0;2026-05-22 06:19:21.940677147;{'Day': 26, 'Hour': 7, 'Minute': 0, 'Month': 5}
+SONGA RUBY;248941000;Le;Antwerp;6.3;144.0;22.0;11.0;1.79;10000.0;2026-05-22 06:19:31.399507609;{'Day': 8, 'Hour': 8, 'Minute': 0, 'Month': 5}
+GIOCONDA            ;209415000;Hamburg;Antwerp;7.3;107.0;18.0;11.0;1.79;10000.0;2026-05-22 06:19:35.100183459;{'Day': 29, 'Hour': 11, 'Minute': 0, 'Month': 5}
+ADMIRAL NEPTUNE     ;636025212;Antwerp;Le;8.8;134.0;23.0;4.0;;;2026-05-22 06:21:38.447371727;{'Day': 22, 'Hour': 12, 'Minute': 0, 'Month': 5}
+ILLUSION;211744760;Rotterdam;Antwerp;2.1;110.0;14.0;11.0;1.79;10000.0;2026-05-22 06:21:46.014330593;{'Day': 19, 'Hour': 9, 'Minute': 30, 'Month': 5}
+BERNSTEIN           ;209341000;Rotterdam;Le;5.1;99.0;14.0;4.0;;;2026-05-22 06:21:46.205070149;{'Day': 23, 'Hour': 10, 'Minute': 0, 'Month': 5}
+ARCADIA;310459000;Piraeus;Rotterdam;8.2;285.0;32.0;16.0;4.22;10000.0;2026-05-22 06:21:48.759884234;{'Day': 24, 'Hour': 2, 'Minute': 30, 'Month': 5}
+SOMTRANS X;205369090;Antwerp;Rotterdam;0.1;135.0;15.0;16.0;4.22;10000.0;2026-05-22 06:21:48.788013283;{'Day': 3, 'Hour': 1, 'Minute': 0, 'Month': 11}
+COSCO PLANET        ;477345900;Rotterdam;Hamburg;13.3;400.0;59.0;12.0;5.14;10000.0;2026-05-22 06:21:50.102615203;{'Day': 28, 'Hour': 0, 'Minute': 30, 'Month': 5}
+MICHELANGELO;211520770;Rotterdam;Antwerp;1.6;110.0;13.0;11.0;1.79;10000.0;2026-05-22 06:21:53.503543356;{'Day': 13, 'Hour': 1, 'Minute': 0, 'Month': 5}
+MUSKETIER;244001312;Antwerp;Rotterdam;3.5;135.0;18.0;16.0;4.22;10000.0;2026-05-22 06:24:52.467992594;{'Day': 21, 'Hour': 19, 'Minute': 17, 'Month': 5}
+STI ACTON           ;538005405;Rotterdam;Antwerp;7.8;184.0;27.0;11.0;1.79;10000.0;2026-05-22 06:24:52.710222374;{'Day': 11, 'Hour': 23, 'Minute': 0, 'Month': 5}
+KROONSTAD;205546690;Rotterdam;Antwerp;4.2;136.0;18.0;11.0;1.79;10000.0;2026-05-22 06:24:59.299186676;{'Day': 24, 'Hour': 22, 'Minute': 58, 'Month': 7}
+KAAIMAN;211590200;Rotterdam;Antwerp;0.2;110.0;12.0;11.0;1.79;10000.0;2026-05-22 06:25:10.872202645;{'Day': 28, 'Hour': 0, 'Minute': 58, 'Month': 4}
+VISTANOVA;269057099;Rotterdam;Antwerp;1.5;110.0;12.0;11.0;1.79;10000.0;2026-05-22 06:27:10.630383822;{'Day': 1, 'Hour': 4, 'Minute': 30, 'Month': 5}
+ORANJE NASSAU 2;244620876;Antwerp;Rotterdam;4.2;110.0;14.0;16.0;4.22;10000.0;2026-05-22 06:27:12.018199314;{'Day': 28, 'Hour': 18, 'Minute': 39, 'Month': 5}
+KMTC KEELUNG        ;440585000;Busan;Singapore;9.2;168.0;27.0;161.0;4.12;10000.0;2026-05-22 06:27:12.807173331;{'Day': 23, 'Hour': 13, 'Minute': 30, 'Month': 5}
+MUMBAI MAERSK;219039000;Bremerhaven;Rotterdam;16.5;399.0;58.0;16.0;4.22;10000.0;2026-05-22 06:27:16.818669306;{'Day': 16, 'Hour': 2, 'Minute': 30, 'Month': 6}
+TRUST GALAXY        ;563084900;Antwerp;Rotterdam;8.1;149.0;24.0;16.0;4.22;10000.0;2026-05-22 06:27:20.046588223;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+CMA CGM VENDOME;563294600;Rotterdam;Hamburg;15.9;400.0;62.0;12.0;5.14;10000.0;2026-05-22 06:27:21.037274358;{'Day': 10, 'Hour': 11, 'Minute': 30, 'Month': 5}
+LE FORMIDABLE       ;244690935;Rotterdam;Antwerp;1.7;114.0;16.0;11.0;1.79;10000.0;2026-05-22 06:27:23.806428869;{'Day': 15, 'Hour': 16, 'Minute': 0, 'Month': 1}
+CHEM SIRIUS         ;636017165;Antwerp;Rotterdam;9.0;146.0;24.0;16.0;4.22;10000.0;2026-05-22 06:27:25.865975186;{'Day': 16, 'Hour': 16, 'Minute': 0, 'Month': 5}
+XIN CHONG QING      ;413055000;Rotterdam;Hamburg;9.6;263.0;32.0;12.0;5.14;10000.0;2026-05-22 06:27:30.048105206;{'Day': 23, 'Hour': 19, 'Minute': 0, 'Month': 5}
+VEENINGEN           ;244630651;Antwerp;Rotterdam;3.7;110.0;14.0;16.0;4.22;10000.0;2026-05-22 06:27:31.522515992;{'Day': 30, 'Hour': 8, 'Minute': 52, 'Month': 5}
+ONE TRIBUTE         ;431787000;Rotterdam;Hamburg;11.0;400.0;59.0;12.0;5.14;10000.0;2026-05-22 06:27:32.775309356;{'Day': 30, 'Hour': 6, 'Minute': 0, 'Month': 6}
+CMA CGM MERCANTOUR  ;636023293;Antwerp;Le;11.7;255.0;40.0;4.0;;;2026-05-22 06:27:33.701176819;{'Day': 2, 'Hour': 2, 'Minute': 0, 'Month': 6}
+MSC SAO PAULO V     ;636016492;Bremerhaven;Le;10.5;294.0;32.0;4.0;;;2026-05-22 06:27:35.357536807;{'Day': 24, 'Hour': 16, 'Minute': 30, 'Month': 5}
+RHENUS DORTMUND;211846860;Antwerp;Rotterdam;2.0;172.0;12.0;16.0;4.22;10000.0;2026-05-22 06:29:58.100269025;{'Day': 18, 'Hour': 8, 'Minute': 0, 'Month': 5}
+CHARIS              ;205528890;Antwerp;Rotterdam;0.0;135.0;15.0;16.0;4.22;10000.0;2026-05-22 06:30:05.903015113;{'Day': 22, 'Hour': 9, 'Minute': 21, 'Month': 5}
+H&S HONESTY         ;245407000;Rotterdam;Antwerp;2.9;88.0;13.0;11.0;1.79;10000.0;2026-05-22 06:32:23.997409859;{'Day': 27, 'Hour': 10, 'Minute': 0, 'Month': 5}
+CHRISTIAAN;244670266;Rotterdam;Antwerp;2.0;110.0;11.0;11.0;1.79;10000.0;2026-05-22 06:32:24.390621421;{'Day': 24, 'Hour': 21, 'Minute': 0, 'Month': 5}
+AILA;230985000;Hamburg;Bremerhaven;8.5;141.0;22.0;6.0;7.09;6188.0;2026-05-22 06:32:24.517828953;{'Day': 20, 'Hour': 4, 'Minute': 0, 'Month': 5}
+TEXAS;244974329;Antwerp;Rotterdam;3.9;110.0;14.0;16.0;4.22;10000.0;2026-05-22 06:32:25.016144128;{'Day': 19, 'Hour': 17, 'Minute': 49, 'Month': 5}
+RIVER DRONE 5;205565590;Rotterdam;Antwerp;3.2;106.0;12.0;11.0;1.79;10000.0;2026-05-22 06:32:26.829201682;{'Day': 20, 'Hour': 11, 'Minute': 39, 'Month': 5}
+WILSON DIRDAL       ;255915955;Bremerhaven;Hamburg;6.0;88.0;13.0;12.0;5.14;10000.0;2026-05-22 06:32:26.926380815;{'Day': 24, 'Hour': 10, 'Minute': 0, 'Month': 5}
+PROVIDER;244002399;Antwerp;Rotterdam;1.6;110.0;14.0;16.0;4.22;10000.0;2026-05-22 06:32:27.139620050;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+EVER MEGA           ;563229400;Rotterdam;Bremerhaven;14.7;366.0;51.0;6.0;7.09;6188.0;2026-05-22 06:32:28.784281745;{'Day': 1, 'Hour': 20, 'Minute': 0, 'Month': 6}
+VEENDAM             ;244700842;Antwerp;Rotterdam;2.0;86.0;12.0;16.0;4.22;10000.0;2026-05-22 06:32:29.787025990;{'Day': 24, 'Hour': 8, 'Minute': 47, 'Month': 5}
+DELIA;304011029;Bremerhaven;Rotterdam;4.5;89.0;12.0;16.0;4.22;10000.0;2026-05-22 06:32:35.722123598;{'Day': 25, 'Hour': 23, 'Minute': 0, 'Month': 5}
+DEO CONFIDENTES;244730862;Antwerp;Rotterdam;0.0;135.0;12.0;16.0;4.22;10000.0;2026-05-22 06:32:36.927430684;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+METROPOLIS;244690052;Antwerp;Rotterdam;0.0;135.0;18.0;16.0;4.22;10000.0;2026-05-22 06:32:37.398846325;{'Day': 26, 'Hour': 5, 'Minute': 18, 'Month': 5}
+BERYL;244830541;Rotterdam;Antwerp;3.0;86.0;15.0;11.0;1.79;10000.0;2026-05-22 06:32:44.410831036;{'Day': 24, 'Hour': 21, 'Minute': 57, 'Month': 5}
+MAXY                ;211504980;Rotterdam;Antwerp;1.0;110.0;12.0;11.0;1.79;10000.0;2026-05-22 06:35:25.974536800;{'Day': 8, 'Hour': 13, 'Minute': 41, 'Month': 4}
+ST. EUSTATIUS;244790272;Antwerp;Rotterdam;0.0;85.0;10.0;16.0;4.22;10000.0;2026-05-22 06:36:38.685265570;{'Day': 28, 'Hour': 3, 'Minute': 28, 'Month': 5}
+TELESTHO;244082008;Antwerp;Rotterdam;1.5;110.0;12.0;16.0;4.22;10000.0;2026-05-22 06:36:41.708564775;{'Day': 21, 'Hour': 18, 'Minute': 50, 'Month': 5}
+SENIORITY;235098058;Antwerp;Le;4.9;95.0;18.0;4.0;;;2026-05-22 06:36:54.715531446;{'Day': 23, 'Hour': 22, 'Minute': 30, 'Month': 5}
+DREAM ARRAX         ;538006211;Le;Antwerp;5.6;99.0;17.0;11.0;1.79;10000.0;2026-05-22 06:39:07.299499026;{'Day': 10, 'Hour': 7, 'Minute': 0, 'Month': 5}
+GTM DENMARK         ;255806384;Rotterdam;Le;7.2;130.0;19.0;4.0;;;2026-05-22 06:39:25.085047069;{'Day': 29, 'Hour': 7, 'Minute': 30, 'Month': 5}
+DELTA;244020258;Rotterdam;Antwerp;0.0;111.0;12.0;11.0;1.79;10000.0;2026-05-22 06:41:40.658970304;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+BLUE INGE;244041722;Rotterdam;Antwerp;1.9;110.0;12.0;11.0;1.79;10000.0;2026-05-22 06:41:44.275561365;{'Day': 26, 'Hour': 21, 'Minute': 0, 'Month': 5}
+CHOPIN;205278890;Rotterdam;Antwerp;3.5;135.0;15.0;11.0;1.79;10000.0;2026-05-22 06:41:45.704598637;{'Day': 11, 'Hour': 18, 'Minute': 5, 'Month': 5}
+STOLT REDSHANK      ;235089046;Rotterdam;Hamburg;5.2;90.0;16.0;12.0;5.14;10000.0;2026-05-22 06:41:46.228178380;{'Day': 28, 'Hour': 22, 'Minute': 0, 'Month': 5}
+MSC MADRID          ;256151000;Piraeus;Le;11.7;270.0;40.0;4.0;;;2026-05-22 06:41:47.538744938;{'Day': 24, 'Hour': 2, 'Minute': 0, 'Month': 5}
+PRINSES;244000876;Antwerp;Rotterdam;3.8;135.0;18.0;16.0;4.22;10000.0;2026-05-22 06:41:59.423342063;{'Day': 24, 'Hour': 4, 'Minute': 14, 'Month': 5}
+MIGLIO;244003082;Rotterdam;Antwerp;4.1;135.0;19.0;11.0;1.79;10000.0;2026-05-22 06:42:00.131964168;{'Day': 17, 'Hour': 17, 'Minute': 47, 'Month': 5}
+MARY  A             ;247373700;Antwerp;Rotterdam;6.3;113.0;18.0;16.0;4.22;10000.0;2026-05-22 06:42:01.612147825;{'Day': 23, 'Hour': 6, 'Minute': 0, 'Month': 5}
+ALORBA;244890610;Antwerp;Rotterdam;2.2;183.0;12.0;16.0;4.22;10000.0;2026-05-22 06:42:03.727868221;{'Day': 24, 'Hour': 4, 'Minute': 47, 'Month': 5}
+SAINTE-MAXIME;205580590;Antwerp;Rotterdam;3.4;135.0;23.0;21.0;4.22;10000.0;2026-05-22 06:48:06.586848824;{'Day': 28, 'Hour': 21, 'Minute': 0, 'Month': 5}
+REGGESTROOM;244630015;Antwerp;Rotterdam;2.0;86.0;12.0;21.0;4.22;10000.0;2026-05-22 06:48:26.073926304;{'Day': 14, 'Hour': 6, 'Minute': 59, 'Month': 5}
+EVER CORE           ;351753000;Hong;Singapore;7.1;171.0;28.0;164.0;4.12;10000.0;2026-05-22 06:50:38.323763861;{'Day': 23, 'Hour': 16, 'Minute': 0, 'Month': 5}
+STRAUSS;205575390;Antwerp;Rotterdam;2.5;110.0;14.0;21.0;4.22;10000.0;2026-05-22 06:57:50.069999130;{'Day': 23, 'Hour': 13, 'Minute': 29, 'Month': 5}
+ECO MAESTRO         ;256339000;Antwerp;Rotterdam;8.2;148.0;27.0;21.0;4.22;10000.0;2026-05-22 07:00:04.916837758;{'Day': 24, 'Hour': 9, 'Minute': 0, 'Month': 5}
+FLORIDA;205509390;Antwerp;Rotterdam;2.5;86.0;10.0;21.0;4.22;10000.0;2026-05-22 07:00:12.517938861;{'Day': 22, 'Hour': 19, 'Minute': 46, 'Month': 5}
+IMPULS;244700568;Antwerp;Rotterdam;1.4;173.0;12.0;21.0;4.22;10000.0;2026-05-22 07:11:55.496913462;{'Day': 16, 'Hour': 0, 'Minute': 0, 'Month': 10}
+ELBWIND;210017000;Bremerhaven;Hamburg;6.7;151.0;23.0;12.0;5.14;10000.0;2026-05-22 07:38:15.988609259;{'Day': 26, 'Hour': 20, 'Minute': 0, 'Month': 5}
+MY WAY;244001686;Antwerp;Rotterdam;4.3;135.0;18.0;10.0;4.22;10000.0;2026-05-22 08:17:06.966765384;{'Day': 20, 'Hour': 16, 'Minute': 18, 'Month': 5}
+VIRAYA;244209247;Antwerp;Rotterdam;1.4;135.0;12.0;10.0;4.22;10000.0;2026-05-22 08:32:41.885346332;{'Day': 22, 'Hour': 4, 'Minute': 21, 'Month': 5}
+OOCL LILAC          ;477140100;Singapore;Hong;12.5;367.0;51.0;20.0;;;2026-05-22 08:32:53.420700793;{'Day': 23, 'Hour': 12, 'Minute': 0, 'Month': 5}
+INCUBATOR;244740786;Rotterdam;Antwerp;2.0;110.0;12.0;12.0;1.79;10000.0;2026-05-22 08:34:34.423069468;{'Day': 31, 'Hour': 9, 'Minute': 6, 'Month': 5}
+MAXIMA;244670098;Antwerp;Rotterdam;3.0;135.0;17.0;11.0;4.22;10000.0;2026-05-22 08:47:15.512385606;{'Day': 18, 'Hour': 23, 'Minute': 16, 'Month': 5}
+INDEPENDENT;244182422;Antwerp;Rotterdam;1.5;85.0;11.0;11.0;4.22;10000.0;2026-05-22 08:58:55.915464701;{'Day': 27, 'Hour': 19, 'Minute': 21, 'Month': 5}
+ATLANTIC SEA        ;215800000;Antwerp;New;9.8;296.0;38.0;4.0;;;2026-05-22 09:46:38.762957315;{'Day': 6, 'Hour': 18, 'Minute': 0, 'Month': 5}
+PETER VAN AEMSTEL;244710299;Antwerp;Rotterdam;1.8;39.0;6.0;9.0;4.22;10000.0;2026-05-22 11:08:02.538640187;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+CHIMO;244130477;Antwerp;Rotterdam;2.0;110.0;12.0;7.0;4.22;10000.0;2026-05-22 12:42:09.405328268;{'Day': 26, 'Hour': 15, 'Minute': 52, 'Month': 5}
+STELLA ORION;246553000;Le;Rotterdam;5.1;104.0;16.0;7.0;4.22;10000.0;2026-05-22 13:39:11.580386933;{'Day': 23, 'Hour': 7, 'Minute': 0, 'Month': 5}
+UNITED LNG I;205587990;Antwerp;Rotterdam;2.7;135.0;21.0;16.0;4.22;10000.0;2026-05-22 16:21:29.947406058;{'Day': 22, 'Hour': 4, 'Minute': 0, 'Month': 5}
+LEONIE DEYMANN;211237970;Antwerp;Rotterdam;0.0;135.0;12.0;15.0;4.22;10000.0;2026-05-22 18:18:54.851637586;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+EQ;244001504;Antwerp;Rotterdam;1.6;85.0;12.0;15.0;4.22;10000.0;2026-05-22 18:37:31.779573103;{'Day': 25, 'Hour': 16, 'Minute': 17, 'Month': 5}
+JULIA;211544420;Antwerp;Rotterdam;2.4;86.0;10.0;15.0;4.22;10000.0;2026-05-22 18:46:40.993797806;{'Day': 30, 'Hour': 10, 'Minute': 27, 'Month': 5}
+EVER MAGI           ;563219100;Savannah;New;12.6;366.0;51.0;7.0;;;2026-05-22 19:19:20.474319661;{'Day': 21, 'Hour': 7, 'Minute': 0, 'Month': 5}
+RHOON C             ;246476000;Bremerhaven;Rotterdam;4.1;82.0;11.0;25.0;4.22;10000.0;2026-05-22 21:28:13.463443703;{'Day': 23, 'Hour': 6, 'Minute': 0, 'Month': 5}
+ANTWERPEN;244058019;Rotterdam;Antwerp;2.0;135.0;18.0;6.0;1.79;10000.0;2026-05-23 00:16:02.876190990;{'Day': 22, 'Hour': 2, 'Minute': 13, 'Month': 5}
+SYNERGY;205217290;Antwerp;Rotterdam;2.5;110.0;14.0;17.0;4.22;10000.0;2026-05-23 00:28:11.673854589;{'Day': 24, 'Hour': 11, 'Minute': 55, 'Month': 5}
+KROONSTAD;205546690;Antwerp;Rotterdam;4.2;136.0;18.0;16.0;4.22;10000.0;2026-05-23 00:45:56.368764850;{'Day': 24, 'Hour': 22, 'Minute': 58, 'Month': 7}
+SENDO MARE;244181802;Antwerp;Rotterdam;3.9;124.0;15.0;22.0;4.22;10000.0;2026-05-23 03:48:57.608936221;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+BIRJO III;205587390;Antwerp;Rotterdam;1.6;135.0;12.0;13.0;4.22;10000.0;2026-05-23 05:25:23.559625596;{'Day': 27, 'Hour': 5, 'Minute': 31, 'Month': 5}
+MAYVIEW MAERSK;219578000;Hamburg;Bremerhaven;12.3;399.0;60.0;3.0;7.09;6188.0;2026-05-23 06:41:55.003573483;{'Day': 25, 'Hour': 1, 'Minute': 0, 'Month': 5}
+MAYVIEW MAERSK;219578000;Hamburg;Bremerhaven;12.3;399.0;60.0;5.0;7.09;6188.0;2026-05-23 07:52:17.154850837;{'Day': 25, 'Hour': 1, 'Minute': 0, 'Month': 5}
+STOLT MAIN;244660648;Rotterdam;Antwerp;2.0;86.0;12.0;12.0;1.79;10000.0;2026-05-23 08:31:14.999738571;{'Day': 24, 'Hour': 2, 'Minute': 0, 'Month': 5}
+MINERVA [SV]        ;245676000;Hamburg;Rotterdam;2.0;49.0;7.0;21.0;4.22;10000.0;2026-05-23 11:44:01.028144944;{'Day': 8, 'Hour': 23, 'Minute': 0, 'Month': 5}
+BLUE NATHALIE;244371252;Rotterdam;Antwerp;3.0;110.0;13.0;9.0;1.79;10000.0;2026-05-23 14:24:20.171489857;{'Day': 28, 'Hour': 2, 'Minute': 0, 'Month': 5}
+CORYLOPHIDA;253465000;Rotterdam;Antwerp;3.0;86.0;10.0;8.0;1.79;10000.0;2026-05-23 17:23:40.654675624;{'Day': 20, 'Hour': 12, 'Minute': 26, 'Month': 5}
+STOLT MOSEL;244660647;Rotterdam;Antwerp;2.3;86.0;12.0;8.0;1.79;10000.0;2026-05-23 18:03:04.744979627;{'Day': 9, 'Hour': 16, 'Minute': 0, 'Month': 5}
+INTENSITY;205394990;Rotterdam;Antwerp;2.6;110.0;12.0;8.0;1.79;10000.0;2026-05-23 18:11:52.746414546;{'Day': 10, 'Hour': 8, 'Minute': 20, 'Month': 5}
+VIRAYA;244209247;Rotterdam;Antwerp;1.4;135.0;12.0;7.0;1.79;10000.0;2026-05-23 19:57:44.402927850;{'Day': 22, 'Hour': 4, 'Minute': 21, 'Month': 5}
+ALIZE;253242499;Rotterdam;Antwerp;1.8;110.0;12.0;7.0;1.79;10000.0;2026-05-23 22:57:47.227968348;{'Day': 11, 'Hour': 2, 'Minute': 23, 'Month': 5}
+FRANCONIA;211547860;Antwerp;Rotterdam;2.1;110.0;13.0;16.0;4.22;10000.0;2026-05-24 10:02:33.671964564;{'Day': 23, 'Hour': 22, 'Minute': 0, 'Month': 5}
+VLAARDINGEN;244660639;Rotterdam;Antwerp;0.0;135.0;15.0;3.0;1.79;10000.0;2026-05-24 13:46:02.661480588;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}
+PETER VAN AEMSTEL;244710299;Rotterdam;Antwerp;1.8;39.0;6.0;4.0;1.79;10000.0;2026-05-24 15:05:35.523707570;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+DUCHESS             ;232034026;Felixstowe;Rotterdam;3.0;27.0;11.0;14.0;4.22;10000.0;2026-05-24 20:06:58.430816123;{'Day': 26, 'Hour': 12, 'Minute': 0, 'Month': 5}
+AQUA ALBIS;244700668;Rotterdam;Antwerp;0.4;86.0;9.0;3.0;1.79;10000.0;2026-05-25 11:54:15.144874219;{'Day': 27, 'Hour': 13, 'Minute': 36, 'Month': 1}
+ATLANTIC PERFORMER;244710207;Antwerp;Rotterdam;0.0;135.0;14.0;19.0;4.22;10000.0;2026-05-25 20:44:04.705380610;{'Day': 25, 'Hour': 23, 'Minute': 0, 'Month': 5}
+ALLEGRO;244690999;Rotterdam;Antwerp;0.0;80.0;9.0;8.0;1.79;10000.0;2026-05-26 04:09:41.211067010;{'Day': 19, 'Hour': 10, 'Minute': 17, 'Month': 5}
+SCALDIS;205456690;Antwerp;Rotterdam;2.0;135.0;17.0;24.0;4.22;10000.0;2026-05-26 07:35:15.023094874;{'Day': 28, 'Hour': 1, 'Minute': 47, 'Month': 5}
+MSC UNITY VI        ;357077000;Melbourne;Busan;10.7;285.0;40.0;0.0;2.06;10000.0;2026-05-26 10:27:41.360612168;{'Day': 12, 'Hour': 23, 'Minute': 0, 'Month': 5}
+TYGO;244700010;Antwerp;Rotterdam;2.2;100.0;11.0;17.0;4.22;10000.0;2026-05-26 12:28:41.377067881;{'Day': 27, 'Hour': 7, 'Minute': 19, 'Month': 5}
+MSC ZOE             ;352757000;Singapore;Busan;13.9;396.0;59.0;16.0;2.06;10000.0;2026-05-26 17:17:06.035177164;{'Day': 28, 'Hour': 21, 'Minute': 0, 'Month': 5}
+BUDAPEST EXPRESS    ;636093193;Vancouver;Busan;13.7;335.0;43.0;16.0;2.06;10000.0;2026-05-26 17:32:08.988930240;{'Day': 12, 'Hour': 1, 'Minute': 0, 'Month': 5}
+ONE COMMITMENT      ;431332000;Los;Busan;11.1;316.0;46.0;49.0;2.06;10000.0;2026-05-26 18:45:04.204947801;{'Day': 6, 'Hour': 12, 'Minute': 0, 'Month': 5}
+DAEHO SUNNY         ;440163000;Singapore;Busan;4.6;114.0;18.0;49.0;2.06;10000.0;2026-05-26 18:51:27.426649867;{'Day': 23, 'Hour': 23, 'Minute': 0, 'Month': 5}
+MONOMERA;253000104;Rotterdam;Antwerp;0.0;101.0;10.0;10.0;1.79;10000.0;2026-05-27 08:07:09.960761714;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+MY WAY              ;211749250;Rotterdam;Antwerp;1.5;110.0;12.0;8.0;1.79;10000.0;2026-05-27 08:25:42.969066607;{'Day': 27, 'Hour': 10, 'Minute': 0, 'Month': 5}
+JASMAR              ;211516560;Bremerhaven;Antwerp;2.4;106.0;11.0;8.0;1.79;10000.0;2026-05-27 08:42:17.663450642;{'Day': 10, 'Hour': 14, 'Minute': 49, 'Month': 5}
+DUANDRA;244394718;Antwerp;Rotterdam;4.0;135.0;18.0;4.0;4.22;10000.0;2026-05-27 17:45:07.153828955;{'Day': 0, 'Hour': 24, 'Minute': 60, 'Month': 0}
+MARK HARDI 3;211114210;Rotterdam;Antwerp;2.5;110.0;46.0;4.0;1.79;10000.0;2026-05-27 18:51:50.926824046;{'Day': 29, 'Hour': 0, 'Minute': 0, 'Month': 5}
+BLUE NATHALIE;244371252;Antwerp;Rotterdam;3.0;110.0;13.0;13.0;4.22;10000.0;2026-05-28 04:13:57.220838107;{'Day': 28, 'Hour': 2, 'Minute': 0, 'Month': 5}
+KROONSTAD;205546690;Rotterdam;Antwerp;4.2;136.0;18.0;4.0;1.79;10000.0;2026-05-28 05:46:14.723476816;{'Day': 24, 'Hour': 22, 'Minute': 58, 'Month': 7}
+ADRIANA      ;244750594;Rotterdam;Antwerp;0.1;85.0;8.0;6.0;1.79;10000.0;2026-05-28 07:27:31.495781010;{'Day': 0, 'Hour': 0, 'Minute': 0, 'Month': 0}

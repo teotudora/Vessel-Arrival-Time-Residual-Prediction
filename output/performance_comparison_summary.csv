@@ -1,0 +1,4 @@
+Model;MAE_Hours;R2_Score;Accuracy_Gain_Percent
+Human (AIS ETA);214.34;0.0;0.0
+Random Forest;180.16;0.0666;15.95
+XGBoost;178.77;0.0998;16.59
