@@ -1,2 +1,2 @@
-# Vessel-Arrival-Time-Prediction
-Bachelor Thesis: Data Mining and Machine Learning for Online Prediction of Vessel Arrival and Departure Times.
+# Vessel-Arrival-Residual-Prediction
+Bachelor Thesis: Data Mining and Machine Learning for Online Prediction of Vessel Arrival Residuals.
