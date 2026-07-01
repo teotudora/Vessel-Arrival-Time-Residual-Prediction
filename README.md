@@ -1,7 +1,7 @@
 # Data Mining and Machine Learning for Online Prediction of Vessel Arrival Time Residuals.
 
-Bachelor Thesis - Leiden University
-Author - Maria Teodora Tudora
+Bachelor Thesis - Leiden University*
+*Author* - Maria Teodora Tudora
 
 ## Overview
 The thesis studies the effect that integrating real-time meteorological features and dynamic port congestion indices has on vessel arrival time prediction accuracy. Standard AIS-reported ETAs are often manually entered and fail to account for real-time environmental and operational factors. This thesis presents an online predictive pipeline that integrates real-time Automatic Identification System (AIS) telemetry with meteorological factors and Dynamic Congestion Indices (DCIs).
